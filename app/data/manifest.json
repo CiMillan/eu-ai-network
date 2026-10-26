@@ -1,0 +1,11 @@
+{
+ "release": "eu-angle-v1",
+ "upstream_repo": "https://github.com/stanford-crfm/ecosystem-graphs",
+ "upstream_commit": "d3c06a4",
+ "nodes": 742,
+ "edges": 751,
+ "sha256": {
+  "nodes.csv": "c822b2cb907527e529ea70c0b6059336cba105982470c5521ce9848e7729f8b0",
+  "edges.csv": "42cf9a20c62a63f547239090d43d7eae2ce3f31856ece2578069f6f498dbd236"
+ }
+}

@@ -1,0 +1,747 @@
+name,type,organization,created_date,access,license,modality
+10k_prompts_ranked,dataset,Data is Better Together,2024-02-27,open,unknown,text
+A.X,model,SK Telecom,2023-09-26,closed,unknown,text; text
+ACT-1,model,Adept,2022-09-14,closed,unknown,text; text
+AI DJ,application,Spotify,2023-02-23,limited,custom,
+AI Dungeon,application,Latitude,2019-12-17,limited,custom,
+AI Test Kitchen,application,Google,2022-08-25,limited,unknown,
+AI-HUB dataset,external,,,,,
+AI21 Paraphrase API,application,AI21 Labs,2023-03-09,limited,none,
+AI21 Playground,application,AI21 Labs,2021-08-11,limited,none,
+AI21 Summarization API,application,AI21 Labs,2023-03-09,limited,none,
+AI21 Summarize API,external,,,,,
+ALIGN,external,,,,,
+ARES,application,Faraday Lab,2023-04-26,open,unknown,
+AST,external,,,,,
+AVA,external,,,,,
+Aleph Alpha API,application,Aleph Alpha,2021-09-30,limited,none,
+AlgebraicStack,external,,,,,
+Alpaca,model,Stanford,2023-03-13,open,CC BY NC 4.0 (model weights),text (English)
+Alpaca dataset,dataset,Stanford,2023-03-13,open,CC BY-NC 4.0,text (English)
+AlphaCode,model,Google Deepmind,2022-02-02,closed,unknown,text; code
+AlphaFold2,model,Google Deepmind,2021-07-15,open,Apache 2.0,amino acid sequence; protein structure
+Amazon Titan,external,,,,,
+Amber,model,LLM360,2023-12-12,open,Apache 2.0,text; text
+Animagine XL 3.0,external,,,,,
+Animagine XL 3.1,model,Cagliostro Research Lab,2024-03-18,open,Fair AI Public License 1.0-SD,text; image
+Anthropic API,application,Anthropic,2023-03-14,limited,none,
+Anthropic Harmlessness dataset,dataset,Anthropic,2022-04-12,closed,unknown,text
+Anthropic Helpfulness dataset,dataset,Anthropic,2022-04-12,open,MIT,text
+Anthropic Human Feedback Interface,application,Anthropic,2022-04-12,closed,unknown,
+Anthropic RLHF models,model,Anthropic,2022-04-12,closed,,code; text
+Ask Instacart,application,Instacart,2023-03-01,limited,,
+AssemblyAI,application,AssemblyAI,2022,limited,custom,
+AudioCaps,external,,,,,
+AudioGen,model,Meta,2023-08-02,open,MIT,"audio, text; audio, text"
+AudioLM,model,Google,2022-09-07,closed,unknown,"audio, text; audio"
+AudioSet,external,,,,,
+AudioSparx,external,,,,,
+Aurora-M,model,"Tokyo Institute of Technology, MIT-IBM Watson Lab, Sapienza University of Rome",2024-04-23,open,unknown,text; text
+Auto-GPT,application,Auto-GPT,2023-04-16,open,MIT,
+AutoMathText,dataset,Math AI,2024-02-12,open,CC BY-SA 4.0,text
+Aya,model,"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",2024-02-12,open,Apache 2.0,text; text
+Aya Dataset,dataset,"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",2024-02-09,open,Apache 2.0,text
+Azure Cognitive Services for Vision,application,Microsoft,2023-03-07,limited,custom,
+BABEL,external,,,,,
+BBC sound effects,external,,,,,
+BEATs,external,,,,,
+BERT,external,,,,,
+BEiT-3,model,Microsoft,2022-08-31,open,,"image, text; image, text"
+BGE M3 Embedding,model,"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",2024-02-05,open,MIT,text; text
+BLIP,model,Salesforce,2022-01-28,open,BSD-3-Clause,text; image
+BLIP-2,model,Salesforce,2023-01-30,open,MIT,text; image
+BLOOM,model,BigScience,2022-07-12,open,BigScience RAIL v1.0,"code, text; code, text"
+BLOOMZ,model,BigScience,2022-11-03,open,BigScience RAIL v1.0,"code, text; code, text"
+BLUUMI,model,"University of Turku, HuggingFace, National Library of Finland",2023-11-03,open,BigScience RAIL v1.0,text; text
+BV-BRC dataset,external,,,,,
+Baichuan 2,model,Baichuan Inc.,2023-09-20,open,Apache 2.0,text; text
+Bain Chat,application,Bain,2023-02-21,limited,unknown,
+Bard,application,Google,2023-02-06,closed,unknown,
+Bark,model,Suno,2023-04-20,open,MIT,text; audio
+Bedrock,application,Amazon,2023-04-13,limited,unknown,
+BigTrans,model,Institute of Automation Chinese Academy of Sciences,2023-05-29,open,Apache 2.0,text; text
+BigTrans parallel dataset,external,,,,,
+Bing Search,application,Microsoft,2023-02-07,limited,custom,
+BioGPT,model,Microsoft,2022-09-24,open,MIT,text; text
+BioMedLM,model,Stanford,2022-12-15,open,bigscience-bloom-rail-1.0,text; text
+BioMistral,model,"Avignon University, Nantes University",2024-02-15,open,Apache 2.0,text; text
+BiomedGPT,model,Lehigh University,2023-05-26,open,Apache 2.0,"image, text; text"
+BiomedGPT biomedical datasets,external,,,,,
+Bird SQL,application,Perplexity,2022-12-15,closed,none,
+Bittensor Language Model,model,Cerebras,2023-07-24,open,Apache 2.0,text; text
+BloombergGPT,model,Bloomberg,2023-03-30,closed,unknown,text; text
+BookSum dataset,external,,,,,
+Books,external,,,,,
+BooksCorpus,external,,,,,
+Brex Chat,application,Brex,2023-03-07,limited,custom,
+C4,dataset,Google,2019-10-23,open,ODC-By 1.0,text
+CLIP,model,OpenAI,2021-01-05,open,MIT,"image, text; text"
+CLIP dataset,dataset,OpenAI,2021-01-05,closed,unknown,"image, text"
+CLUE,external,,,,,
+COCO,external,,,,,
+CORGI,model,Stanford,2023-06-12,open,MIT,human trajectories; text
+COSMO,model,AI2,2023-05-24,open,,text; text
+COYO-700M,dataset,Kakao Brain,2022-08-31,open,CC-BY-4.0,"image, text"
+CPM Bee,model,OpenBMB,2023-05-27,open,custom,text; text
+Camel,model,Writer,2023-04-01,open,Apache 2.0,text; text
+Camel dataset,external,,,,,
+CausalLM,model,CausalLM,2023-10-21,open,WTFPL,text; text
+Cerebras-GPT,model,Cerebras,2023-03-28,open,Apache 2.0,text; text
+Cformers,application,Nolano,2023-03-19,limited,MIT,
+Character,application,Character AI,2022-09-16,limited,unknown,
+ChatGLM,model,ChatGLM,2023-03-14,open,Apache 2.0,text; text
+ChatGPT,application,OpenAI,2022-11-30,limited,custom,
+ChatGPT API,application,OpenAI,2023-03-01,open,custom,
+ChatGPT Enterprise,application,OpenAI,2023-08-28,limited,custom,
+ChatGPT for Slack,application,"OpenAI, Salesforce",2023-03-07,limited,unknown,
+ChatGPT powered by OBO,application,HubSpot,2023-01-31,limited,unknown,
+Chinchilla,model,Google Deepmind,2022-03-29,closed,unknown,text; code
+Chronos,model,Amazon,2024-03-13,open,Apache 2.0,time-series; time-series
+Claude,model,Anthropic,2023-03-14,limited,unknown,text; text
+Claude 2,model,Anthropic,2023-07-11,limited,,text; text
+Claude 2.1,model,Anthropic,2023-11-21,limited,unknown,text; text
+Claude 3,model,Anthropic,2024-03-04,limited,unknown,"image, text; text"
+Claude API,external,,,,,
+Claude Instant,model,Anthropic,2023-03-14,limited,unknown,text; text
+Claude for Sheets,application,Anthropic,2023-12-21,open,unknown,
+Claude human feedback data,external,,,,,
+Clotho v2,external,,,,,
+CoCa,external,,,,,
+Code Alpaca,external,,,,,
+Code LLaMA,model,Meta,2023-08-24,open,Llama 2,"text; code, text"
+Code Tulu 2,model,AI2,2023-11-20,open,AI2 ImpACT,"text; code, text"
+CodeGeeX,model,Tsinghua University,2022-09-20,limited,Apache 2.0,text; code
+CodeGen,model,Salesforce,2022-03-25,open,"none (model weights), BSD-3-Clause (code)","code, text; code, text"
+CodeParrot,model,HuggingFace,2021-12-06,open,none,"text; code, text"
+Codex,model,OpenAI,2021-08-10,limited,unknown,"text; code, text"
+Codex dataset,dataset,OpenAI,2021-08-10,closed,,
+CogVLM,model,"Zhipu AI, Tsinghua University",2023-11-06,open,custom,"image, text; text"
+CogVideo,model,Tsinghua University,2022-05-29,open,Apache 2.0,text; video
+CogView,model,Tsinghua University,2021-05-26,open,Apache 2.0,text; image
+CogView 2,model,Tsinghua University,2022-04-28,open,Apache 2.0,text; image
+Cohere API,application,Cohere,2021-11-15,limited,custom,
+Cohere Base,model,Cohere,2021-11-15,limited,unknown,text; text
+Cohere Classify Endpoint,application,Cohere,2022-05-05,limited,"Limited use license to Cohere platform users [[Terms of Use]](https://cohere.ai/terms-of-use).
+",
+Cohere Command,model,Cohere,2023-01-01,limited,unknown,text; text
+Cohere Embed (English),model,Cohere,2021-11-15,limited,unknown,text; text
+Cohere Embed (Multilingual),model,Cohere,2022-12-12,limited,unknown,text; text
+Cohere Embed Endpoint,application,Cohere,2021-11-15,limited,"Limited use license to Cohere platform users [[Terms of Use]](https://cohere.ai/terms-of-use).
+",
+Cohere Embedv3 (English),model,Cohere,2023-11-02,limited,unknown,text; text
+Cohere Generate Endpoint,application,Cohere,2021-11-15,limited,"Limited use license to Cohere platform users [[Terms of Use]](https://cohere.ai/terms-of-use).
+",
+Cohere Summarize Endpoint,application,Cohere,2023-02-22,limited,"Limited use license to Cohere platform users [[Terms of Use]](https://cohere.ai/terms-of-use).
+",
+Command-R,model,Cohere,2024-03-11,open,CC BY NC 4.0,text; text
+Common Corpus,dataset,Pleias,2024-03-20,open,none,text
+Common Crawl,external,,,,,
+CommonCanvas,model,"Cornell University, Mosaic",2023-10-25,open,Apache 2.0,text; image
+CommonCatalog,dataset,Mosaic,2023-10-25,open,Apache 2.0,image-caption pairings
+Composer,model,Alibaba,2023-02-20,closed,unknown,"image, text; image"
+Conceptual 12M,dataset,Google,2021-02-17,open,Conceptual Captions License,"image, text"
+Conceptual Captions,dataset,Google,2018-07-01,open,Conceptual Captions License,"image, text"
+Conformer-1,model,AssemblyAI,2023-03-15,limited,unknown,"audio, text; audio, text"
+Conformer-1 API,application,AssemblyAI,2023-03-15,open,custom,
+Conformer-1 dataset,dataset,AssemblyAI,2023-03-15,closed,unknown,"audio, text"
+Continue,application,"Continue Dev, Inc.",2023-07-26,open,Apache 2.0,
+CosmicMan,model,Shanghai AI Laboratory,2024-04-01,open,unknown,text; image
+CosmicMan-HQ 1.0,dataset,Shanghai AI Laboratory,2024-04-28,open,unknown,image
+Cosmopedia v0.1,dataset,Hugging Face,2024-02-22,open,unknown,text
+Crisis Contact Simulator,application,The Trevor Project,2021-03-24,closed,unknown,
+CrystalCoder,model,LLM360,2023-12-12,open,Apache 2.0,"text; code, text"
+CulturaX,dataset,"University of Oregon, Adobe",2023-09-17,open,"mC4, OSCAR",text
+DALL·E,model,OpenAI,2021-01-05,limited,unknown,text; image
+DALL·E 2,model,OpenAI,2022-04-13,limited,unknown,text; image
+DALL·E 2 dataset,external,,,,,
+DALL·E 3,model,OpenAI,2023-09-20,limited,custom,text; image
+DALL·E dataset,dataset,OpenAI,2021-01-05,closed,unknown,"image, text"
+DBRX,model,Databricks,2024-03-27,open,Databricks Open Model License,text; text
+DaTikz,external,,,,,
+DeciLM,model,Deci,2023-12-12,open,Apache 2.0,text; text
+DeepFloyd IF,model,Stability AI,2023-04-28,open,custom,text; image
+DeepStruct finetuning dataset,external,,,,,
+Deepseek,model,Deepseek AI,2023-11-28,open,custom,text; text
+Deepseek Chat,model,Deepseek AI,2023-11-29,open,custom,text; text
+Deepseek Coder,model,Deepseek AI,2023-11-03,open,custom,text; code
+Devin,model,Cognition Labs,2024-03-12,limited,unknown,text; code
+Docugami,model,Microsoft,2021-04-12,limited,,text; text
+Dolly,model,Databricks,2023-03-24,open,Apache 2.0,text; text
+Dolly dataset,external,,,,,
+Dolma,dataset,AI2,2023-08-18,open,AI2 ImpACT,text
+Dolphin 2.2 Yi,model,Cognitive Computations,2023-11-14,open,custom,text; text
+Dolphin dataset,external,,,,,
+Dragonfly,model,OpenAI,2023-02-03,limited,unknown,text; text
+Dragonfly API,application,OpenAI,2023-02-03,limited,unknown,
+Dramatron,model,Google Deepmind,2022-09-29,closed,unknown,text; text
+DuckAssist,application,DuckDuckGo,2023-03-08,open,unknown,
+Duolingo Explain My Answer,application,Duolingo,2023-03-14,limited,custom,
+Duolingo Max,application,Duolingo,2023-03-14,limited,custom,
+Duolingo Role Play,application,Duolingo,2023-03-14,limited,custom,
+ERNIE 3.0 Titan,model,"Baidu, PengCheng Laboratory",2021-12-23,closed,unknown,text; text
+ERNIE 4.0,model,Baidu,2023-10-17,limited,unknown,"text; image, text, video"
+ERNIE-ViLG,model,Baidu,2021-12-31,limited,none,text; image
+ERNIE-ViLG 2.0,model,Baidu,2022-10-27,closed,unknown,text; image
+ESM-2,model,Meta,2022-10-31,open,MIT,text; protein sequence
+EVA-CLIP,model,"Beijing Academy of Artificial Intelligence, Tsinghua University",2024-02-06,open,MIT,"image, text; text"
+EXAONE 2.0,model,LG AI Research,2023-07-19,closed,unknown,"image, text; image, text"
+EXMODD,dataset,Beijing Institute of Technology,2023-10-17,open,MIT,"image, text"
+EinsteinGPT,application,Salesforce,2023-03-07,limited,unknown,
+Emu,model,Meta,2023-09-27,closed,unknown,text; image
+Emu Edit,model,Meta,2023-11-16,closed,unknown,text; image
+Emu Video,model,Meta,2023-11-16,closed,unknown,text; video
+Eurus,model,OpenBMB,2024-04-02,open,Apache 2.0,text; text
+Eurus SFT,external,,,,,
+Evol-CodeAlpaca data,external,,,,,
+FIT400M,external,,,,,
+FLAN (version not stated),external,,,,,
+FLAVA,model,Meta,2021-12-08,open,BSD-3-Clause,"image, text"
+FLD-5B,dataset,Microsoft,2023-11-10,closed,unknown,"image, text"
+FLD-900M,dataset,Microsoft,2022-11-23,closed,unknown,"image, text"
+FSD50K,external,,,,,
+Falcon-180B,model,UAE Technology Innovation Institute,2023-09-06,open,unknown,text; text
+Falcon-40B,model,UAE Technology Innovation Institute,2023-06-14,open,Apache 2.0,text; text
+FalconLite2,model,Amazon,2023-08-08,open,Apache 2.0,text; text
+Ferret,model,"Columbia, Apple AI",2023-10-11,open,Apple,"image, text; image, text"
+FinGPT,model,"University of Turku, HuggingFace, National Library of Finland",2023-11-03,open,Apache 2.0,text; text
+FinPile,dataset,Bloomberg,2023-03-30,closed,unknown,text
+Firefly,application,Adobe,2023-03-21,limited,unknown,
+Firefly Design,model,Adobe,2023-10-10,closed,unknown,text; template design
+Firefly Image 2,model,Adobe,2023-10-10,closed,unknown,text; image
+Firefly Vector,model,Adobe,2023-10-10,closed,unknown,text; vector graphic
+Flamingo,model,Google Deepmind,2022-04-29,closed,unknown,"image, text; text"
+Flan 2021,external,,,,,
+Flan CoT,external,,,,,
+Flan Collection,dataset,Google,2023-01-31,open,Apache 2.0,text
+Flan-PaLM,model,Google,2022-10-20,closed,unknown,text; text
+Flan-T5,model,Google,2022-10-20,open,Apache 2.0,text; text
+Flan-U-PaLM,model,Google,2022-10-20,closed,unknown,text; text
+Flan-UL2,model,Google,2023-03-02,open,Apache 2.0,text; text
+Flickr,external,,,,,
+Florence,model,Microsoft,2022-11-23,closed,unknown,text; image
+Florence-2,model,Microsoft,2023-11-10,closed,unknown,"image, text; text"
+Free Music Archive,external,,,,,
+Free To Use Sounds,external,,,,,
+FuseChat,model,FuseAI,2024-02-26,open,Apache 2.0,text; text
+Fuyu,model,Adept,2023-10-17,open,CC-BY-NC-4.0,"image, text; text"
+Fuyu Heavy,model,Adept,2024-01-24,closed,unknown,"image, text; text"
+GAIA-1,model,Wayve,2023-09-29,closed,unknown,"text, video; video"
+GLM-130B,model,Tsinghua University,2022-08-04,open,GLM-130B License,text; text
+GLM-130B Chinese corpora,external,,,,,
+GLaM,model,Google,2021-12-13,closed,unknown,text; text
+GLaM Conversations dataset,dataset,Google,2021-12-13,closed,unknown,text
+GLaM Forums dataset,dataset,Google,2021-12-13,closed,unknown,text
+GLaM News dataset,dataset,Google,2021-12-13,closed,unknown,text
+GLaM Web dataset,dataset,Google,2021-12-13,closed,unknown,text
+GOAT,model,National University of Singapore,2023-05-23,open,Apache 2.0,text; text
+GOAT dataset,external,,,,,
+GPT-2,model,OpenAI,2019-11-01,open,Modified MIT License,text; text
+GPT-3,model,OpenAI,2020-06-11,limited,unknown,text; text
+GPT-3 dataset,dataset,OpenAI,2020-06-11,closed,unknown,text
+GPT-3.5,external,,,,,
+GPT-4,model,OpenAI,2023-03-14,limited,unknown,"image, text; image, text"
+GPT-4 API,application,OpenAI,2023-03-14,limited,custom,
+GPT-4 Turbo,model,OpenAI,2023-11-06,limited,custom,text; text
+GPT-J,model,EleutherAI,2021-06-04,open,Apache 2.0,text; text
+GPT-JT,model,Together,2022-11-29,open,Apache 2.0,text; text
+GPT-Neo,model,EleutherAI,2021-03-21,open,MIT,text; text
+GPT-NeoX,model,EleutherAI,2022-02-02,open,Apache 2.0,"text; text, code"
+GPT-NeoXT-Chat-Base,model,Together,2023-03-10,open,Apache 2.0,text; text
+Galactica,model,Meta,2022-11-15,open,CC BY-NC 4.0,"code, text; code, text"
+Gato,model,Google Deepmind,2022-05-12,closed,unknown,"image, text; image, text, robotics trajectories"
+Gato dataset,dataset,Google Deepmind,2022-05-12,closed,unknown,"image, text, robotics trajectories, simulated control tasks"
+Gemini,model,Google,2023-12-06,closed,unknown,"text; image, text, video"
+Gemma,model,Google,2024-02-21,open,custom,text; text
+GenSLM,model,Argonne National Laboratory,2022-10-11,open,MIT,text; genome sequence
+Genie,model,Google DeepMind,2024-02-23,closed,unknown,image; video
+Genstruct,model,Nous,2024-03-07,open,Apache 2.0,text; text
+GitHub,external,,,,,
+GitHub CoPilot,application,Microsoft,2021-06-29,limited,unknown,
+GodziLLa 2,model,Maya Philippines,2023-08-11,open,LLaMA 2,text; text
+Google Joint SLM,model,Google,2023-06-08,closed,unknown,audio; text
+Google Search,application,Google,2019-11-25,open,none,
+Google internal image-text dataset,external,,,,,
+GooseAI API,application,GooseAI,unknown,limited,custom,
+Gopher,model,Google Deepmind,2021-12-08,closed,unknown,text; code
+GopherCite,model,Google Deepmind,2022-03-16,closed,unknown,text; text
+GopherCite Preference dataset,dataset,Google Deepmind,2022-03-16,closed,unknown,text
+GopherCite reward model,model,Google Deepmind,2022-03-16,closed,unknown,text; text
+Gorilla,model,Berkeley,2023-05-24,open,Apache 2.0,text; API
+Gorilla document retriever,external,,,,,
+Granite,model,IBM,2023-09-28,limited,,"text; code, text"
+GreenBit LLaMA,model,GreenBit AI,2023-09-29,open,Apache 2.0,text; text
+Grok-1,model,xAI,2023-11-04,open,Apache 2.0,text; text
+Grok-1.5V,model,xAI,2024-04-12,limited,unknown,"image, text; text"
+Guanaco,model,University of Washington,2023-05-23,open,MIT,text; text
+Guanaco LLaMA 2 1K dataset,external,,,,,
+H2O AI OpenAssistant,external,,,,,
+H2O Danube,model,H2O AI,2024-01-30,open,Apache 2.0,text; text
+HD-VILA-100M,external,,,,,
+HealthSearchQA,external,,,,,
+Hermes 2 Pro-Mistral,model,Nous,2024-03-10,open,Apache 2.0,text; text
+HowTo100M,dataset,"École Normale Supérieure, Inria",2019-06-07,open,Apache 2.0,"text, video"
+HumanEval,dataset,OpenAI,2021-08-10,open,MIT,code
+HyperCLOVA,model,NAVER,2021-05-21,closed,unknown,text; text
+HyperCLOVA X,model,NAVER,2024-04-13,limited,unknown,text; text
+HyperWrite,application,OthersideAI,unknown,limited,custom,
+IDEFICS,model,HuggingFace,2023-08-22,open,custom,"image, text; text"
+Idefics2,model,Hugging Face,2024-04-15,open,Apache 2.0,"image, text; text"
+Ideogram 1.0,model,Ideogram AI,2024-02-28,limited,unknown,text; image
+Image-Chat,external,,,,,
+ImageNet,external,,,,,
+ImageNet EfficientNet,external,,,,,
+Imagen,model,Google,2022-05-23,open,unknown,text; image
+InCoder,model,"Meta, CMU, TTI-Chicago, UC Berkeley, University of Washington",2022-04-12,open,CC BY-NC 4.0,text; code
+Infiniset,dataset,Google,2021-06-18,closed,unknown,"code, text"
+Inflection-1,model,Inflection AI,2023-06-22,limited,unknown,text; text
+Inflection-2,model,Inflection AI,2023-11-22,closed,unknown,text; text
+Inflection-2.5,model,Inflection AI,2024-03-07,limited,unknown,text; text
+InstructGPT,model,OpenAI,2022-01-27,closed,unknown,"text; code, text"
+InternLM-20B,model,Shanghai AI Laboratory,2023-09-20,open,Apache 2.0,"code, text; code, text"
+InternLM-7B,model,Shanghai AI Laboratory,2023-07-06,open,Apache 2.0,text; text
+InternVL,external,,,,,
+InternVid,external,,,,,
+InternVideo,model,Shanghai AI Laboratory,2022-12-06,open,Apache 2.0,"text, video; video"
+InternVideo2,model,"Shanghai AI Laboratory, Nanjing University, Zhejiang University",2024-03-22,open,MIT,"text, video; text"
+Internal Google BERT,model,Google,2019-11-25,closed,unknown,text; text
+Internal Google BERT dataset,dataset,Google,2019-11-25,closed,unknown,text
+JARVIS-1,model,Peking University Institute for Artificial Intelligence,2023-11-10,open,unknown,text; in-game actions
+JFT,external,,,,,
+JFT-4B,external,,,,,
+Jais,model,"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2023-08-30,open,Apache 2.0,text; text
+Jais Chat,model,"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2023-08-30,open,Apache 2.0,text; text
+Jamba,model,AI21 Labs,2024-03-28,open,Apache 2.0,text; text
+JudgeLM,model,Beijing Academy of Artificial Intelligence,2023-10-26,open,Apache 2.0,text; text
+JudgeLM Dataset,dataset,Beijing Academy of Artificial Intelligence,2023-10-26,open,CC BY NC 4.0,"text, text"
+Jukebox,model,OpenAI,2020-04-30,open,Noncommercial Use License,text; audio
+Jukebox dataset,external,,,,,
+Juni Tutor Bot,application,Juni Learning,unknown,limited,unknown,
+Jurassic-1,model,AI21 Labs,2021-08-11,limited,unknown,text
+Jurassic-1 Instruct,model,AI21 Labs,2022-12-01,limited,unknown,text; text
+Jurassic-1 Instruct dataset,dataset,AI21 Labs,2022-12-01,closed,unknown,text
+Jurassic-1 dataset,dataset,AI21 Labs,2021-08-11,closed,unknown,text
+Jurassic-2,model,AI21 Labs,2023-03-09,limited,unknown,text; text
+KMash,external,,,,,
+KOSMOS-1,model,Microsoft,2023-03-01,closed,MIT,"image, text; image, text"
+Khanmigo,application,Khan Academy,2023-03-14,limited,unknown,
+Kinetics-400,external,,,,,
+Kinetics-710,external,,,,,
+Koala,model,Berkeley,2023-04-03,open,Apache 2.0,text; text
+Konan LLM,model,Konan,2023-09-17,limited,unknown,text; text
+Kotoba Speech,model,Kotoba Tech,2024-03-13,open,Apache 2.0,text; audio
+L1000 MCF7,external,,,,,
+L1000 VCAP,external,,,,,
+LAION-115M,dataset,Salesforce,2022-01-28,open,BSD-3-Clause,"image, text"
+LAION-1B,dataset,Alibaba,2023-02-20,closed,unknown,"image, text"
+LAION-2B-en,dataset,LAION,2022-12-12,open,CC BY 4.0,"image, text"
+LAION-400M,dataset,LAION,2021-08-20,open,CC BY 4.0,"image, text"
+LAION-5B,dataset,LAION,2022-12-12,open,CC BY 4.0,"image, text"
+LIMA,external,,,,,
+LLaMA,model,Meta,2023-02-24,open,"LLaMa License (model weights), GPLv3 (code)",text; text
+LLaVA,external,,,,,
+LLongMA-2,external,,,,,
+LOTSA,dataset,Salesforce,2024-03-19,open,Apache 2.0,time-series
+LP-MusicCaps,dataset,South Korea Graduate School of Culture Technology,2023-07-31,open,CC-BY-NC-4.0,
+LTIP,external,,,,,
+LaMDA,model,Google,2021-06-18,closed,unknown,text; text
+LaMDA-LF,dataset,Google,2023-02-08,closed,unknown,text
+Lag-LLaMA,model,"Morgan Stanley, ServiceNow Research, University of Montreal, Mila-Quebec AI Institute",2024-02-08,open,Apache 2.0,text; text
+Large Video Dataset,dataset,Stability AI,2023-11-21,closed,unknown,video with caption
+LargeMix,dataset,Mila-Quebec AI Institute,2023-10-09,open,CC BY-NC-SA 4.0,"molecules, tasks"
+Le Chat,application,Mistral AI,2024-02-26,limited,unknown,
+Lego-MT,model,Shanghai AI Laboratory,2023-05-29,open,,text; text
+Lemur,model,OpenLemur,2023-10-10,open,LLaMA2,"code, text; code, text"
+Lemur-Chat,model,OpenLemur,2023-10-10,open,CC-BY-NC-4.0,text; text
+LinkedIn,application,LinkedIn,unknown,open,unknown,
+LiveQA,external,,,,,
+Llama 2,model,Meta,2023-07-18,open,custom,text; text
+Llama 3,model,Meta,2024-04-18,open,Llama 3,text; text
+Llama-2-7B-32K-Instruct,model,Together,2023-08-18,open,LLaMA 2,text; text
+Llark,model,"University of Washington, Spotify",2023-10-11,open,Apache 2.0,"audio, text; text"
+Llemma,model,"Princeton University, Eleuther AI",2023-10-16,open,LLaMA 2,text; text
+LlongOrca,model,Microsoft,2023-08-01,open,LLaMA 2,text; text
+Localized Narratives,external,,,,,
+Luminous,model,Aleph Alpha,2022-04-14,limited,none,text; text
+Luminous dataset,dataset,Aleph Alpha,2022-04-14,closed,unknown,text
+Lyria,model,Google Deepmind,2023-11-16,closed,unknown,text; music
+M3W,dataset,Google Deepmind,2022-04-29,closed,unknown,"code, text"
+MADLAD-400,dataset,AI2,2023-09-09,open,CC BY 4.0,text
+MAGMA,model,Aleph Alpha,2022-10-24,open,MIT,"image, text; text"
+MAmmoTH,model,Ohio State University,2023-09-11,open,MIT,text; text
+MIMIC-CXR,external,,,,,
+MIMIC-IT,external,,,,,
+MM1,model,Apple,2024-03-16,closed,unknown,"image, text; text"
+MMLU,external,,,,,
+MPT,model,Mosaic,2023-05-05,open,Apache 2.0,text; text
+MSR-VTT,external,,,,,
+MUM,model,Google,2021-05-18,closed,unknown,"image, text; text"
+MUM dataset,dataset,Google,2021-05-18,closed,unknown,"image, text"
+Magnatagtune,external,,,,,
+Make-A-Video,model,Meta,2022-09-29,closed,none,text; video
+Make-A-Video dataset,dataset,Meta,2022-09-29,limited,none,"image, text, video"
+Marengo 2.6,model,Twelve Labs,2024-03-01,open,unknown,"audio, image, text; audio, image, video"
+Mask R-CNN,external,,,,,
+MassiveText,dataset,Google Deepmind,2021-12-08,closed,unknown,"code, text"
+MathCoder,model,Shanghai AI Laboratory,2023-10-05,open,unknown,text; text
+MathInstruct,external,,,,,
+Med-Gemini,model,Google,2024-04-29,closed,unknown,"image, text; text"
+Med-PaLM,model,Google,2022-12-26,closed,unknown,text; text
+Med-PaLM Multimodal,model,Google,2023-07-26,closed,unknown,"image, text, genome sequence; text"
+MedLM,model,Google,2023-12-13,limited,unknown,text; text
+MedMCQA,external,,,,,
+MedQA,external,,,,,
+MediTron,model,"EPFL, Idiap Research Institute, OpenAssistant, Yale",2023-11-27,open,LLaMA 2,text; text
+MedicationQA,external,,,,,
+Megatron-LM,model,NVIDIA,2021-04-09,closed,unknown,text; text
+Megatron-Turing NLG,model,"Microsoft, NVIDIA",2022-01-28,limited,unknown,text; text
+Meta Music Initative Sound Collection,external,,,,,
+MetaCLIP,model,Meta,2023-10-02,open,CC-BY-NC-4.0,text; text
+Microsoft 365 Copilot,application,Microsoft,2023-03-16,limited,custom,
+Microsoft Business Chat,application,Microsoft,2023-03-16,limited,custom,
+Microsoft Excel,application,Microsoft,unknown,open,custom,
+Microsoft Inside Look,application,Microsoft,unknown,limited,custom,
+Microsoft Outlook,application,Microsoft,unknown,open,custom,
+Microsoft Power Platform,application,Microsoft,unknown,limited,custom,
+Microsoft PowerPoint,application,Microsoft,unknown,open,custom,
+Microsoft Security Copilot,application,Microsoft,2023-03-28,limited,custom,
+Microsoft Suggested Replies,application,Microsoft,unknown,limited,custom,
+Microsoft Teams,application,Microsoft,unknown,open,custom,
+Microsoft Word,application,Microsoft,unknown,open,custom,
+Microsoft security-specific model,external,,,,,
+Midm,model,KT Corporation,2023-10-31,open,CC-BY-NC 4.0,text; text
+Million Song Dataset,external,,,,,
+MineDojo,dataset,NVIDIA,2022-06-17,open,MIT,"text, video"
+Minerva,model,Google,2022-06-29,closed,unknown,text; text
+Minerva Math Web Pages dataset,dataset,Google,2022-06-29,closed,unknown,text
+MiniCPM,model,OpenBMB,2024-02-01,open,custom,text; text
+MiniMA,model,Beijing Institute of Technology,2023-11-13,open,Llama 2,text; text
+Mistral,model,Mistral AI,2023-09-27,open,Apache 2.0,text; text
+Mistral Large,model,Mistral AI,2024-02-26,limited,unknown,text; text
+Mistral-7B-OpenOrca,external,,,,,
+Mixtral 8x7B,external,,,,,
+MoMo,model,Moreh,2024-01-16,open,MIT,text; text
+Moirai,model,Salesforce,2024-03-19,open,Apache 2.0,time-series; time-series
+Moment,model,"Carnegie Mellon University, University of Pennsylvania",2024-02-06,open,unknown,
+Moonhub Recruiter,application,Moonhub,2023-10-11,limited,custom,
+MuLaMCap,external,,,,,
+MuLan,model,Google,2022-08-26,closed,unknown,text; audio
+MuLan dataset,dataset,Google,2022-08-26,closed,unknown,"audio, text"
+Muffin,dataset,Google,2021-09-03,open,Apache 2.0,text
+MultiMedBench,external,,,,,
+MultiMedQA,model,Google,2022-12-26,closed,unknown,text; text
+Multimodal C4,dataset,AI2,2023-06-09,open,ODC-By,"image, text"
+MusicCaps,external,,,,,
+MusicGen,model,Meta,2023-08-02,open,MIT,"audio, text; audio, text"
+MusicLM,model,Google,2023-01-26,closed,unknown,text; audio
+MusicLM acoustic model,model,Google,2023-01-26,closed,unknown,audio; audio
+MusicLM dataset,dataset,Google,2023-01-26,closed,unknown,audio
+MusicLM semantic model,model,Google,2023-01-26,closed,unknown,audio; audio
+My AI for Snapchat,application,Snap,2023-03-01,open,custom,
+NASA HLS data,external,,,,,
+National Institute of Korean Language dataset,external,,,,,
+NaturalInstructions-v2,dataset,AI2,2022-04-16,open,Apache 2.0,NLP tasks
+Neeva dataset,dataset,Neeva,unknown,closed,unknown,text
+Neeva model,model,Neeva,unknown,closed,unknown,text; text
+NeevaAI,application,Neeva,2023-01-06,open,Custom,
+Nemotron 4,model,Nvidia,2024-02-27,open,unknown,"text; code, text"
+Nextdoor Assistant,application,Nextdoor,2023-05-02,open,unknown,
+Noise2Music,model,Google,2023-02-08,closed,unknkown,"audio, text; audio"
+Noise2Music audio dataset,dataset,Google,2023-02-08,closed,unknown,audio
+Noise2Music pseudolabel dataset,dataset,Google,2023-02-08,closed,unknown,"audio, text"
+Noise2Music pseudolabeler,model,Google,2023-02-08,closed,unknown,"audio, text; audio"
+Notion AI,application,Notion,2023-02-22,limited,,
+Notus,model,Argilla,2023-12-01,open,MIT,text; text
+Nous Capybara,model,Nous Research,2023-11-13,open,MIT,text; text
+Nous Hermes 2,model,Nous Research,2024-01-10,open,Apache 2.0,"text; code, text"
+Nucleus,model,Nucleus.AI,2023-10-05,open,MIT,text; text
+OBELICS,dataset,HuggingFace,2023-08-22,open,CC-BY-4.0,"image, text"
+OIG-43M,dataset,"Together, LAION, Ontocord",2023-03-10,open,Apache 2.0,text
+OIG-moderation,dataset,"Together, LAION, Ontocord",2023-03-10,open,Apache 2.0,text
+OLMo,model,AI2,2024-02-01,open,Apache 2.0,text; text
+OPT,model,Meta,2022-05-01,limited,OPT-175B License,text; text
+OPT-IML,model,Meta,2022-12-22,open,OPT-IML 175B License,text; text
+OPT-IML Bench,external,,,,,
+OPUS,external,,,,,
+OSCAR,external,,,,,
+Objaverse,external,,,,,
+Ocean-1,model,Cresta,2023-06-20,closed,unknown,text; text
+OceanGPT,model,Zhejiang University,2024-02-06,open,MIT,text; text
+Open X-Embodiment dataset,dataset,Open X-Embodiment,2023-10-03,open,Apache 2.0,robot trajectories
+Open-Platypus,external,,,,,
+OpenAI API,application,OpenAI,2020-06-11,limited,custom,
+OpenAI Moderation API,application,OpenAI,2022-08-10,open,custom,
+OpenAI toxicity classifier,model,OpenAI,2023-01-18,closed,unknown,text; text
+OpenAI toxicity dataset,dataset,OpenAI,2023-01-18,closed,unknown,text
+OpenAssistant Conversations (OASST1),external,,,,,
+OpenAssistant LLaMA 2,model,OpenAssistant,2023-08-23,open,LLaMA 2,text; text
+OpenBA,model,Soochow University,2023-10-01,open,Apache 2.0,text; text
+OpenChat 3.5,external,,,,,
+OpenChatKit moderation model,model,Together,2023-03-10,open,Apache 2.0,text; text
+OpenELM,model,Apple,2024-04-24,open,Apple,text; text
+OpenFlamingo,model,LAION,2023-03-28,open,MIT,"image, text; text"
+OpenFold,model,Columbia,2022-11-20,open,CC BY 4.0,amino acid sequence; protein structure
+OpenHermes 2.5 Dataset,external,,,,,
+OpenHermes 2.5 Mistral,model,Nous Research,2023-11-03,open,Apache 2.0,text; text
+OpenLLaMA,model,Berkeley,2023-05-03,open,Apache 2.0,text; text
+OpenMoE,model,"National University of Singapore, University of Edinburgh, ETH Zurich",2024-01-12,open,Apache 2.0,text; text
+OpenOrca,dataset,Microsoft,2023-06-05,open,MIT,text
+OpenProteinSet,external,,,,,
+OpenWebMath,dataset,University of Toronto,2023-10-10,open,ODC-By 1.0,"text, mathematical tokens"
+OpenWebText,external,,,,,
+Orca 2,model,Microsoft,2023-11-21,open,custom,text; text
+Orion,model,OrionStarAI,2024-01-20,open,custom,text; text
+Otter,model,Nanyang Technological University,2023-05-05,open,MIT,"image, text; text"
+P3,dataset,BigScience,2022-10-15,open,Apache 2.0,text
+PCBA1328,external,,,,,
+PCQM4M_G25_N4,external,,,,,
+PEER,model,Meta,2022-08-24,open,,text; text
+PM6_83M,external,,,,,
+PMD,dataset,Meta,2021-12-08,closed,unknown,"image, text"
+PaLI,model,Google,2022-09-14,closed,unknown,text; image
+PaLI-X,external,,,,,
+PaLM,model,Google,2022-04-04,limited,unknown,"text; text, code"
+PaLM 2,model,Google,2023-05-10,open,unknown,text; text
+PaLM 2 dataset,external,,,,,
+PaLM API,application,Google,2023-03-14,limited,unknown,
+PaLM dataset,dataset,Google,2022-04-04,closed,unknown,"code, text"
+PaLM-E,model,Google,2023-03-06,closed,unknown,"image, text; text"
+PaLM-SayCan,model,Google,2022-08-16,closed,"unknown (model weights), Apache 2.0 (SayCan code)",text; robotics trajectories
+Palmyra,model,Writer,2023-01-01,open,Apache 2.0,text; text
+Paramount Motion - Odeon Cinematic Sound Effects,external,,,,,
+Parti,model,Google,2022-06-22,closed,unknown,text; image
+Pegasus-1,model,Twelve Labs,2023-10-23,open,unknown,video; text
+Perplexity Ask,application,Perplexity,2022-12-07,open,none,
+Perplexity Chat,application,Perplexity,2023-10-27,open,none,
+Persimmon,model,Adept,2023-09-07,open,Apache 2.0,text; text
+Phenaki,model,Google,2023-02-01,closed,unknown,text; video
+Phenaki Video-Text Corpus,dataset,Google,2023-02-01,closed,unknown,"text, video"
+Phi-1.5,model,Microsoft,2023-09-11,open,MIT,text; text
+Phi-3 Mini,model,Microsoft,2024-04-23,open,MIT,text; text
+Pi,application,Inflection AI,2023-05-02,limited,unknown,
+Pile-T5,model,EleutherAI,2024-04-15,open,unknown,text; text
+Platypus,model,Boston University,2023-08-14,open,CC by-NC-SA 4.0,text; text
+Poe,application,Quora,2023-02-03,limited,none,
+PolyCoder,model,Carnegie Mellon University,2022-02-26,open,MIT,code
+Pond5 music collection,external,,,,,
+Portkey,application,Portkey,2023-05-06,open,,
+Prism,model,Toyota Research Institute,2024-02-09,open,LLaMA 2,"image, text; text"
+Prithvi,model,IBM,2023-08-03,open,Apache 2.0,"text, video; text, video"
+Prometheus,model,Microsoft,2023-02-07,closed,unknown,unknown
+Proof Pile 2,dataset,"Princeton University, Eleuther AI",2023-10-16,open,MIT,text
+ProsocialDialog,external,,,,,
+Protein Data Bank,external,,,,,
+Pub-S,external,,,,,
+Pub-U,external,,,,,
+PubMed,external,,,,,
+PubMed Central,external,,,,,
+PubMedQA,external,,,,,
+PushShift.io Reddit,external,,,,,
+Pythia,model,Eleuther AI,2023-05-31,open,Apache 2.0,text; text
+Q-Chat,application,Quizlet,2023-03-01,open,none,
+QM9,external,,,,,
+Qwen,model,Alibaba,2023-08-03,open,custom,"image, text; text"
+Qwen 1.5,model,Alibaba,2024-02-04,open,custom,text; text
+Qwen 1.5 MoE,model,Qwen Team,2024-03-28,open,custom,text; text
+RETRO,model,Google Deepmind,2021-12-08,closed,unknown,text; text
+ROOTS,dataset,BigScience,2022-06-06,open,custom,"code, text"
+RT-1-X,model,"Open X-Embodiment, Google Deepmind",2023-10-03,open,Apache 2.0,"images, text; robot trajectories"
+RT-2,model,Google Deepmind,2023-07-28,open,unknown,"text, video; text, robotics trajectories"
+RT-2-X,model,"Open X-Embodiment, Google Deepmind",2023-10-03,closed,unknown,"images, text, robot trajectories; robot trajectories"
+RWKV 4 Pile,model,RWKV,2023-05-15,open,Apache 2.0,text; text
+RWKV World 4,model,RWKV,2023-05-03,open,Apache 2.0,text; text
+RWKV World 5,model,RWKV,2023-12-16,open,Apache 2.0,text; text
+RakutenAI,model,Rakuten,2024-03-21,open,Apache 2.0,text; text
+Rater-LF,dataset,Google,2023-02-08,closed,unknown,text
+Rater-SF,dataset,Google,2023-02-08,closed,unknown,text
+Red Caps,external,,,,,
+RedPajama-Data,dataset,Together,2022-04-17,open,Apache 2.0,text
+RedPajama-Data-v2,dataset,Together,2023-10-30,open,Apache 2.0,text
+Reddit,external,,,,,
+Reexpress One,application,Reexpress AI,2023-03-21,limited,unknown,
+RefinedWeb,dataset,UAE Technology Innovation Institute,2023-06-01,open,custom,text
+Reka Core,model,Reka,2024-04-15,limited,unknown,"audio, image, text, video; text"
+Reka Flash,model,Reka,2024-02-12,limited,unknown,"image, text, video; text"
+Rendered Text,external,,,,,
+Rerank 3,model,Cohere,2024-04-11,limited,unknown,text; text
+RoBERTa dataset,external,,,,,
+Robin AI,application,Robin AI,unknown,limited,none,
+RoentGen,model,Stanford,2022-11-23,open,,text; image
+SA-1B,dataset,Meta,2023-04-05,open,SA-1B Dataset Research License,image
+SALMONN,model,"ByteDance, Tsinghua University",2023-10-20,open,Apache 2.0,"audio, text; text"
+SAM,model,Meta,2023-04-05,open,Apache 2.0,"image, text; image"
+SARS-CoV-2 genome dataset,external,,,,,
+SBU Captions,dataset,Stony Brook University,2011-12-12,open,none,"image, text"
+SDXL-Lightning,model,ByteDance,2024-02-21,open,OpenRail++,text; image
+SODA,dataset,AI2,2023-05-24,open,CC BY 4.0,text
+Sage,model,OpenAI,2023-02-03,limited,unknown,text; text
+Sage API,application,OpenAI,2023-02-03,limited,unknown,
+SaiLY,model,Deepnight Research,2023-11-04,open,MIT,text; text
+Samba 1,model,Samba Nova Systems,2024-02-28,limited,unknown,text; text
+SambaLingo,model,Samba Nova Systems,2024-02-26,open,LLaMA 2,text; text
+Sana,application,Sana,unknown,limited,custom,
+SantaCoder,model,BigCode,2023-02-24,open,BigCode Open RAIL-M v1,code; code
+SauerkrautLM,model,VAGO Solutions,2023-11-28,open,Apache 2.0,text; text
+SciPhi Mistral,model,SciPhi,2023-11-07,open,MIT,text; text
+SeaLLM v2.5,model,"DAMO Academy, Alibaba",2024-04-12,open,custom,text; text
+SegMamba,model,"Hong Kong University of Science and Technology (Guangzhou + original), Beijing Academy of Artificial Intelligence",2024-01-25,open,Apache 2.0,image; text
+ShareGPT,external,,,,,
+ShareGPT & ChatLogs,external,,,,,
+ShareGPT52K,external,,,,,
+Shop Assistant,application,Shop,2023-03-01,open,,
+Shutterstock music collection,external,,,,,
+Sky Replacer,application,Stability AI,2023-11-01,open,unknown,
+SkyPile,external,,,,,
+Skywork,model,Kunlun Inc.,2023-10-30,open,custom,text; text
+SlimPajama,dataset,Cerebras,2023-06-09,open,Apache 2.0,text
+Something-Something-v2,external,,,,,
+Sonantic AI,external,,,,,
+Sonniss Game Effects,external,,,,,
+Sora,model,OpenAI,2024-02-15,limited,unknown,"text; image, video"
+SoundStream,model,Google,2023-01-26,closed,unknown,audio; audio
+Sparrow,model,Google Deepmind,2022-09-28,closed,unknown,text; text
+Sparrow Preference reward model,model,Google Deepmind,2022-09-28,closed,unknown,text; text
+Sparrow Rule reward model,model,Google Deepmind,2022-09-28,closed,unknown,text; text
+Sparrow adversarial probing dataset,dataset,Google Deepmind,2022-09-28,closed,unknown,text
+Sparrow response preference dataset,dataset,Google Deepmind,2022-09-28,closed,unknown,text
+Speak,application,Speak,2023-03-01,open,,
+Stable Audio 2.0,model,Stability AI,2024-04-03,open,unknown,"audio, text; audio"
+Stable Cascade,model,Stability AI,2024-01-16,open,custom,text; image
+Stable Diffusion,application,Stability AI,2022-08-22,open,custom,
+Stable Diffusion XL,application,Stability AI,2023-07-26,open,Open Rail++,
+Stable Video 3D,model,Stability AI,2024-03-18,open,StabilityAI Non-Commercial Research Community License,image; video
+Stable Video Diffusion,model,Stability AI,2023-11-21,limited,custom,text; video
+StableLM,model,Stability AI,2023-04-20,open,Apache 2.0,text; text
+StableLM 2,model,Stability AI,2024-01-19,open,custom,text; text
+StableLM-Alpha dataset,external,,,,,
+StackExchange,external,,,,,
+StarCoder,model,BigCode,2023-05-09,open,BigCode Open RAIL-M v1.0,code; code
+StarCoder2-15B,model,BigCode,2024-02-28,open,BigCode OpenRail-M,code; text
+StarCoder2-3B,model,BigCode,2024-02-28,open,BigCode OpenRail-M,code; text
+StarCoder2-7B,model,BigCode,2024-02-28,open,BigCode OpenRail-M,code; text
+StarCoderPlus,external,,,,,
+Starling,model,Ollama,2023-11-02,open,CC BY NC 4.0,text; text
+StripedHyena,model,Together,2023-12-08,open,Apache 2.0,text; text
+StripedHyena Nous,model,Together,2023-12-08,open,Apache 2.0,text; text
+T-ULRv5,model,Microsoft,2022-09-28,limited,unknown,text; text
+T0++,model,BigScience,2021-10-15,open,Apache 2.0,text; text
+T5,model,Google,2019-10-23,open,Apache 2.0,text; text
+TOX21,external,,,,,
+Taiyi Diffusion XL,model,"International Digital Economy Academy, South China University of Technology, University of Science and Technology of China",2024-01-26,open,Apache 2.0,text; image
+The Cauldron,dataset,Hugging Face,2024-04-15,open,CC BY 4.0,"image, text"
+The Galactica Corpus,dataset,Meta,2022-11-15,closed,unknown,text
+The Pile,dataset,EleutherAI,2021-01-01,open,MIT,"code, text"
+The Stack,dataset,BigCode,2022-11-20,open,"The Stack is a collection of source code from repositories with various licenses. Any use of all or part of the code gathered in The Stack must abide by the terms of the original licenses, including attribution clauses when relevant. Provenance information is provided for each data point.",code
+The Stack v2,external,,,,,
+TigerBot,model,TigerResearch,2023-10-19,open,Apache 2.0,text; text
+TimesFM,model,Google,2024-02-02,closed,unknown,
+Together API,external,,,,,
+ToyMix,dataset,Mila-Quebec AI Institute,2023-10-09,open,CC BY-NC-SA 4.0,"molecules, tasks"
+Transformify Automate,application,Transformify,2023-05-30,open,,
+Tulu 2,model,AI2,2023-11-20,open,AI2 ImpACT,text; text
+Tulu 2 DPO,model,AI2,2023-11-20,open,AI2 ImpACT,text; text
+Tulu-V2-mix,dataset,AI2,2023-11-20,open,ODC-BY,text
+Turing NLR-v5,model,Microsoft,2021-12-02,limited,unknown,text; text
+U-PaLM,model,Google,2022-10-20,closed,unknown,text; text
+UFOGen,model,Boston University,2023-11-14,open,unknown,text; image
+UL2,model,Google,2022-05-10,open,Apache 2.0,text; text
+USE,external,,,,,
+USM,model,Google,2023-03-06,limited,unknown,"audio, text; text"
+UltraChat,dataset,Tsinghua University,2023-04-20,open,MIT,text
+UltraFeedback,dataset,OpenBMB,2023-09-26,open,MIT,text
+UltraInteract,external,,,,,
+UltraLM,model,Tsinghua University,2023-06-27,open,LLaMA 2,text; text
+UltraLarge,dataset,Mila-Quebec AI Institute,2023-10-09,open,CC BY-NC-SA 4.0,"molecules, tasks"
+UnderwriteGPT,application,Paladin Group and Dais Technology,2023-02-01,limited,,
+UniLM,model,Microsoft,2019-10-01,open,MIT,text; text
+UniRef50,external,,,,,
+UniRef90,external,,,,,
+Unknown licensed third party datasets,external,,,,,
+VALL-E,model,Microsoft,2023-01-05,closed,unknown,text; audio
+VARCO-LLM,model,NCSOFT,2023-08-16,closed,custom,text; text
+VATT,model,Google,2022-04-22,open,Apache 2.0,"text; audio, video"
+VGG-Sound,external,,,,,
+VIMA,model,"NVIDIA, Stanford",2022-10-06,open,MIT,"image, text; robotics trajectories"
+VIMA dataset,dataset,"NVIDIA, Stanford",2022-10-06,open,MIT,"image, text"
+VLMo,model,Microsoft,2021-11-03,closed,none,text; image
+VPT,model,OpenAI,2022-06-23,open,MIT,video; video
+VQGAN,external,,,,,
+VQGAN-CLIP,model,EleutherAI,2022-09-04,open,MIT,text; image
+VTP,external,,,,,
+ViT (unknown size),external,,,,,
+ViT-22B,model,Google,2023-02-10,closed,unknown,"image, image"
+ViT-B,external,,,,,
+ViT-e,model,Google,2022-09-14,closed,unknown,image; image
+Viable,application,Viable,unknown,limited,unknown,
+Vicuna,model,LMSYS,2023-03-30,open,Apache 2.0,text; text
+Vid2Seq,model,Google,2023-02-27,open,Apache 2.0,video; text
+Video-ChatGPT Video Descriptions Dataset,external,,,,,
+VideoBLIP,external,,,,,
+VideoMAEv2,external,,,,,
+Virtual Volunteer,application,Be My Eyes,2023-03-14,limited,unknown,
+Visual Genome,external,,,,,
+VisualChatGPT,model,Microsoft,2023-03-08,closed,none,"text; image, text"
+Voicebox,model,Meta,2023-06-16,closed,,audio; text
+Vulture,model,Virtual Interactive,2023-10-02,open,Apache 2.0,text; text
+Watsonx.ai,application,IBM,2023-09-07,limited,custom,
+WeSoundEffects,external,,,,,
+Web-NTL,external,,,,,
+WebLI,dataset,Google,2022-09-14,closed,unknown,"image, text"
+WebSight,external,,,,,
+WebText,dataset,OpenAI,2019-11-01,closed,unknown,text
+WebVid-10M,dataset,University of Oxford,2021-04-01,open,WebVid Dataset Terms,"text, video"
+WebVid-2M,dataset,University of Oxford,2021-04-01,open,WebVid Dataset Terms,"text, video"
+WebVision,external,,,,,
+Whisper,model,OpenAI,2022-09-21,open,MIT,audio; text
+Whisper API,application,OpenAI,2023-03-01,open,custom,
+Whisper dataset,dataset,OpenAI,2022-09-21,closed,unknown,audio
+Wikipedia,external,,,,,
+WizardCoder,model,Microsoft,2023-08-26,open,BigCode Open Rail-M,text; text
+WizardLM,model,Microsoft,2023-04-24,open,Apache 2.0,text; text
+WizardLM Uncensored,model,Cognitive Computations,2023-06-01,open,unknown,text; text
+Wordtune,application,AI21 Labs,2020-10-27,limited,Wordtune License,
+Wordtune Read,application,AI21 Labs,2021-11-16,limited,Wordtune License,
+Writer dataset,external,,,,,
+Wu Dao 2.0,model,Beijing Academy of Artificial Intelligence,2021-01-12,closed,unknown,"image, text"
+Wu Dao dataset,dataset,Beijing Academy of Artificial Intelligence,2021-01-12,closed,unknown,"image, text"
+Wukong,external,,,,,
+XVERSE,model,Xverse,2023-11-06,open,custom,text; text
+Xwin-LM,model,Xwin,2023-09-20,open,LLaMA2,text; text
+YAYI 2,model,Institute of Automation Chinese Academy of Sciences,2023-12-22,open,custom,text; text
+YFCC100M,external,,,,,
+YT-NLU-U,external,,,,,
+YT-SUP+,external,,,,,
+YT-Temporal-1B,dataset,University of Washington,2022-01-07,open,MIT,video
+YaLM,model,Yandex,2022-06-22,open,Apache 2.0,text; text
+YaRN LLaMA 2,model,"Nous Research, EleutherAI, University of Geneva",2023-11-01,open,LLaMA 2,text; text
+YaRN Mistral,model,"Nous Research, EleutherAI, University of Geneva",2023-11-01,open,MIT,text; text
+Yandex Russian Pretraining Dataset,external,,,,,
+Yandex Search,application,Yandex,2022-06-23,open,custom,
+Yi,model,01 AI,2023-11-02,open,custom,text; text
+Yi-VL,model,01 AI,2024-01-23,open,custom,text; text
+You Search,application,You,unknown,open,unknown,
+You dataset,dataset,You,unknown,closed,unknown,text
+You model,model,You,unknown,closed,unknown,text; text
+YouTube,application,Google,2005-02-14,open,,
+ZINC12K,external,,,,,
+Zephyr,model,HuggingFace,2023-10-11,open,MIT,text; text
+arXiv,external,,,,,
+code-davinci-002,model,OpenAI,2022-05-01,limited,unknown,"text; code, text"
+code-davinci-002 dataset,dataset,OpenAI,2022-05-01,limited,unknown,"code, text"
+coheretext,dataset,Cohere,2021-11-15,closed,unknown,text; text
+gpt-3.5-turbo,model,OpenAI,2023-03-01,limited,custom,text; text
+gpt-3.5-turbo dataset,dataset,OpenAI,2023-03-01,limited,unknown,text
+gpt4all dataset,external,,,,,
+h2oGPT,model,H2O AI,2023-06-16,open,Apache 2.0,text; text
+mC4,external,,,,,
+mCLIP,external,,,,,
+mT0,model,BigScience,2021-10-15,open,BigScience RAIL v1.0,text ;text
+mT5,external,,,,,
+multi-document QA dataset,external,,,,,
+phi-1,external,,,,,
+text-davinci-002,model,OpenAI,2022-05-01,limited,unknown,text; text
+text-davinci-003,model,OpenAI,2022-11-30,limited,unknown,text; text
+umT5,external,,,,,
+w2v-BERT,model,Google,2023-01-26,closed,unknown,audio; audio
+web-scraped dialogue data,external,,,,,
+web_clean,dataset,OpenAI,2022-06-23,closed,unknown,video
+xP3,dataset,BigScience,2022-11-03,open,Apache 2.0,"code, text"
