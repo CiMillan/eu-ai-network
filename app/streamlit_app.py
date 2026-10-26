@@ -188,9 +188,11 @@ elif i == 1:
             "what to believe. Every answer comes out of a chain. **Datasets teach models, and models power the "
             "apps people use.** Stanford's *Ecosystem Graphs* write this chain down as a network of "
             f"{graph.number_of_nodes()} pieces and {graph.number_of_edges()} links.  \n"
-            "To us, this is **the network that future human knowledge will flow through**. What a few models "
-            "learn, and what they miss, reaches everyone built on them. So it matters who sits at the centre, "
-            "who depends on whom, and where Europe stands.")
+            "To us, this is **the network that future human knowledge will flow through**. When we trust an "
+            "answer, we also trust everything behind it: the data it learned from and the models it was built "
+            "on. But that chain is hidden from the person asking. **Knowing where the information we trust comes "
+            "from** is why this network matters. What a few models learn, and what they miss, reaches everyone "
+            "built on them. So we ask who sits at the centre, who depends on whom, and where Europe stands.")
     st.header("What is a foundation model?")
     st.markdown(
         "A **foundation model** is one large AI model trained on broad data, such as huge amounts of text or "
