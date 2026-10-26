@@ -1,6 +1,6 @@
 # Europe in the AI network
 
-Applied Network Analysis 2027, group project proposal (draft for the group).
+Applied Network Analysis 2026, group project proposal (draft for the group).
 
 Who does Europe's AI build on, and who builds on Europe? Nodes are AI models, datasets and apps; a link means one is built on another.
 

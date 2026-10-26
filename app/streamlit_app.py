@@ -1,4 +1,4 @@
-"""Applied Network Analysis 2027, group project proposal: who Europe's AI builds on, and who builds on Europe.
+"""Applied Network Analysis 2026, group project proposal: who Europe's AI builds on, and who builds on Europe.
 
 Run from the repo root:  streamlit run app/streamlit_app.py
 Reads the frozen export in app/data/ (release eu-angle-v1), never the upstream YAML.
@@ -131,7 +131,7 @@ graph.add_edges_from((e["upstream"], e["downstream"]) for e in edges)
 
 st.set_page_config(page_title="Europe in the AI network", layout="centered")
 st.title("Europe in the AI network")
-st.caption("Applied Network Analysis 2027 · group project proposal · draft for the group")
+st.caption("Applied Network Analysis 2026 · group project proposal · draft for the group")
 
 step = st.sidebar.radio("Steps", ["1 · What is a foundation model?", "2 · AI has a supply chain",
                                   "3 · Stanford's map", "4 · A few hubs hold it up", "5 · Our question: Europe",
