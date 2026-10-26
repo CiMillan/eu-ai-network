@@ -1,4 +1,4 @@
-"""Applied Network Analysis 2026, group project proposal: who Europe's AI builds on, and who builds on Europe.
+"""Applied Network Analysis 2026/27, group project proposal: who Europe's AI builds on, and who builds on Europe.
 
 Run from the repo root:  streamlit run app/streamlit_app.py
 Reads the frozen export in app/data/ (release eu-angle-v1), never the upstream YAML.
@@ -23,6 +23,7 @@ EG_PAPER = "https://arxiv.org/abs/2303.15772"
 STANFORD_PAGE = "https://crfm.stanford.edu/ecosystem-graphs/"
 OUR_REPO = "https://github.com/CiMillan/eu-ai-network"
 OUR_APP = "https://eu-ai-network.streamlit.app/"
+MOODLE = "https://elearning.novaims.unl.pt/course/view.php?id=4859"
 
 # Three categorical slots (network = all pairs in play, so at most three hues); outside sources stay neutral grey
 COLOR = {"model": "#3987e5", "dataset": "#d95926", "application": "#199e70", "external": "#8a8984"}
@@ -135,7 +136,7 @@ graph.add_edges_from((e["upstream"], e["downstream"]) for e in edges)
 
 st.set_page_config(page_title="Europe in the AI network", layout="centered")
 st.title("Europe in the AI network")
-st.caption("Applied Network Analysis 2026 · group project proposal · draft for the group")
+st.caption("Applied Network Analysis 2026/27 · group project proposal · draft for the group")
 
 STEPS = ["The project", "What is a foundation model?", "AI has a supply chain", "Stanford's map",
          "A few hubs hold it up", "Our question: Europe", "The plan", "References and links"]
@@ -146,18 +147,19 @@ st.sidebar.caption(f"Sources: [Bommasani et al. 2021]({FM_PAPER}) · [Bommasani 
 if i == 0:
     st.header("The project")
     st.markdown(
-        "**Course:** Applied Network Analysis 2026, group project. It counts for **50%** of the final grade.  \n"
+        "**Course:** Applied Network Analysis 2026/27, group project. It counts for **50%** of the final grade.  \n"
         "**Group:** up to four students (four recommended). Members: *to be added*.  \n"
         "**Rule of the course:** find the article behind the dataset, replicate its analysis, then extend it. "
         f"Our article: Stanford's [Ecosystem Graphs paper]({EG_PAPER}); our extension: the Europe question.")
     st.subheader("Deadlines")
     st.dataframe(pd.DataFrame([
-        {"when": "Lecture 5", "what": "Proposal: 5 slides in at most 5 minutes"},
-        {"when": "Every class from Lab 5", "what": "60-second update per group: done, next, blocks"},
-        {"when": "Before the final talk", "what": "Send the slides (course template on Moodle); no report"},
-        {"when": "January, last week of classes (date to be set)", "what": "Final: 10-minute talk by one "
-                                                                          "member, then Q&A for all"},
+        {"when": "Mon 2 Nov 2026 (Lecture 5)", "what": "Proposal: 5 slides in at most 5 minutes"},
+        {"when": "Every class from Mon 16 Nov 2026 (Lab 5)", "what": "60-second update per group: done, next, blocks"},
+        {"when": "Sun 10 Jan 2027, 15:59", "what": "Send the slides as a PDF on Moodle (course template); no report"},
+        {"when": "January 2027 (date to be set)", "what": "Final: 10-minute talk by one member, then Q&A for all"},
     ]), hide_index=True)
+    st.caption(f"Dates from the course syllabus and [Moodle]({MOODLE}), where all the course details are. "
+               "The syllabus may still change them.")
     st.subheader("What the proposal must show")
     st.dataframe(pd.DataFrame([
         {"the course asks": "Our network: nodes N and links L, with N > 100",
@@ -308,5 +310,6 @@ else:
         f"- This app online: [{OUR_APP}]({OUR_APP})\n"
         "- Built with Python: networkx, pandas, plotly and Streamlit")
     st.subheader("Course")
+    st.markdown(f"- Course page on Moodle (all details and dates): [{MOODLE}]({MOODLE})")
     st.download_button("Download the course's project description (PDF)", (DOCS / "project-description.pdf").read_bytes(),
                        file_name="project-description.pdf", mime="application/pdf", key="pdf_refs")
