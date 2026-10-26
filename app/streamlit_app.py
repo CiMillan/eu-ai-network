@@ -21,7 +21,6 @@ UPSTREAM = "https://github.com/stanford-crfm/ecosystem-graphs"
 FM_PAPER = "https://arxiv.org/abs/2108.07258"
 EG_PAPER = "https://arxiv.org/abs/2303.15772"
 STANFORD_PAGE = "https://crfm.stanford.edu/ecosystem-graphs/"
-OUR_REPO = "https://github.com/CiMillan/eu-ai-network"
 OUR_APP = "https://eu-ai-network.streamlit.app/"
 MOODLE = "https://elearning.novaims.unl.pt/course/view.php?id=4859"
 
@@ -319,7 +318,6 @@ else:
         f"- The snapshot we use: commit [{manifest['upstream_commit']}]({UPSTREAM}/commit/{manifest['upstream_commit']})")
     st.subheader("Our work")
     st.markdown(
-        f"- This app's code and data: [{OUR_REPO}]({OUR_REPO})\n"
         f"- This app online: [{OUR_APP}]({OUR_APP})\n"
         "- Built with Python: networkx, pandas, plotly and Streamlit")
     st.subheader("Course")
