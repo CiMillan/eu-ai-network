@@ -148,7 +148,7 @@ if i == 0:
     st.header("The project")
     st.markdown(
         "**Course:** Applied Network Analysis 2026/27, group project. It counts for **50%** of the final grade.  \n"
-        "**Group:** up to four students (four recommended). Members: *to be added*.  \n"
+        "**Group F:** Ifeoluwa Adeboye, Sofiia Makhortova, Cintia Millan and Ella Tiihonen.  \n"
         "**Rule of the course:** find the article behind the dataset, replicate its analysis, then extend it. "
         f"Our article: Stanford's [Ecosystem Graphs paper]({EG_PAPER}); our extension: the Europe question.")
     st.subheader("Deadlines")
