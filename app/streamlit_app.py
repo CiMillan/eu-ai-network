@@ -16,9 +16,13 @@ import plotly.graph_objects as go
 import streamlit as st
 
 DATA = Path(__file__).resolve().parent / "data"
+DOCS = Path(__file__).resolve().parent / "docs"
 UPSTREAM = "https://github.com/stanford-crfm/ecosystem-graphs"
 FM_PAPER = "https://arxiv.org/abs/2108.07258"
 EG_PAPER = "https://arxiv.org/abs/2303.15772"
+STANFORD_PAGE = "https://crfm.stanford.edu/ecosystem-graphs/"
+OUR_REPO = "https://github.com/CiMillan/eu-ai-network"
+OUR_APP = "https://eu-ai-network.streamlit.app/"
 
 # Three categorical slots (network = all pairs in play, so at most three hues); outside sources stay neutral grey
 COLOR = {"model": "#3987e5", "dataset": "#d95926", "application": "#199e70", "external": "#8a8984"}
@@ -133,13 +137,48 @@ st.set_page_config(page_title="Europe in the AI network", layout="centered")
 st.title("Europe in the AI network")
 st.caption("Applied Network Analysis 2026 · group project proposal · draft for the group")
 
-step = st.sidebar.radio("Steps", ["1 · What is a foundation model?", "2 · AI has a supply chain",
-                                  "3 · Stanford's map", "4 · A few hubs hold it up", "5 · Our question: Europe",
-                                  "6 · The plan"])
+STEPS = ["The project", "What is a foundation model?", "AI has a supply chain", "Stanford's map",
+         "A few hubs hold it up", "Our question: Europe", "The plan", "References and links"]
+i = st.sidebar.radio("Steps", range(len(STEPS)), format_func=lambda k: f"{k + 1} · {STEPS[k]}")
 st.sidebar.caption(f"Sources: [Bommasani et al. 2021]({FM_PAPER}) · [Bommasani et al. 2024]({EG_PAPER}) · "
                    f"[data]({UPSTREAM})")
 
-if step.startswith("1"):
+if i == 0:
+    st.header("The project")
+    st.markdown(
+        "**Course:** Applied Network Analysis 2026, group project. It counts for **50%** of the final grade.  \n"
+        "**Group:** up to four students (four recommended). Members: *to be added*.  \n"
+        "**Rule of the course:** find the article behind the dataset, replicate its analysis, then extend it. "
+        f"Our article: Stanford's [Ecosystem Graphs paper]({EG_PAPER}); our extension: the Europe question.")
+    st.subheader("Deadlines")
+    st.dataframe(pd.DataFrame([
+        {"when": "Lecture 5", "what": "Proposal: 5 slides in at most 5 minutes"},
+        {"when": "Every class from Lab 5", "what": "60-second update per group: done, next, blocks"},
+        {"when": "Before the final talk", "what": "Send the slides (course template on Moodle); no report"},
+        {"when": "January, last week of classes (date to be set)", "what": "Final: 10-minute talk by one "
+                                                                          "member, then Q&A for all"},
+    ]), hide_index=True)
+    st.subheader("What the proposal must show")
+    st.dataframe(pd.DataFrame([
+        {"the course asks": "Our network: nodes N and links L, with N > 100",
+         "our answer": f"{graph.number_of_nodes()} nodes, {graph.number_of_edges()} links (steps 3 and 4)"},
+        {"the course asks": "How we collect the data", "our answer": "Stanford's public records, frozen at one commit (step 4)"},
+        {"the course asks": "Which questions we ask", "our answer": "Europe, both ways (step 6)"},
+        {"the course asks": "Why we care", "our answer": "A few hubs hold up the rest (steps 2 and 5)"},
+    ]), hide_index=True)
+    st.subheader("How it is graded")
+    st.dataframe(pd.DataFrame([
+        {"criterion": "C1 Problem and research question", "weight": "10%"},
+        {"criterion": "C2 Data and methods, with the descriptive network analysis", "weight": "20%"},
+        {"criterion": "C3 Depth and correctness of the network analysis", "weight": "25%"},
+        {"criterion": "C4 Insights and interpretation", "weight": "20%"},
+        {"criterion": "C5 Clarity and compliance", "weight": "10%"},
+        {"criterion": "C6 Presentation and Q&A", "weight": "15%"},
+    ]), hide_index=True)
+    st.download_button("Download the course's project description (PDF)", (DOCS / "project-description.pdf").read_bytes(),
+                       file_name="project-description.pdf", mime="application/pdf")
+
+elif i == 1:
     st.header("What is a foundation model?")
     st.markdown(
         "A **foundation model** is one large AI model trained on broad data, such as huge amounts of text or "
@@ -154,7 +193,7 @@ if step.startswith("1"):
     st.caption(f"Definition and the flaw point: Stanford, [Bommasani et al. 2021]({FM_PAPER}), "
                "*On the Opportunities and Risks of Foundation Models*.")
 
-elif step.startswith("2"):
+elif i == 2:
     st.header("AI has a supply chain")
     st.markdown(
         "Models are not built alone. **Datasets** feed **models**, and models feed **apps**. "
@@ -171,7 +210,7 @@ elif step.startswith("2"):
             "middle, who depends on whom, and what breaks if one piece goes away.")
     st.caption(f"Assets and dependencies: Stanford, [Bommasani et al. 2024]({EG_PAPER}), *Ecosystem Graphs*.")
 
-elif step.startswith("3"):
+elif i == 3:
     st.header("Stanford's map")
     st.markdown(
         f"Stanford researchers documented this supply chain in **Ecosystem Graphs** ([paper]({EG_PAPER}), "
@@ -195,7 +234,7 @@ elif step.startswith("3"):
                     use_container_width=True)
     st.caption("New assets per year. The map stops in April 2024, so the last bar is incomplete.")
 
-elif step.startswith("4"):
+elif i == 4:
     st.header("A few hubs hold it up")
     st.markdown(
         "Most pieces are used by almost nobody. A few are used by many. Network science calls these **hubs**. "
@@ -218,7 +257,7 @@ elif step.startswith("4"):
                                 height=max(300, 34 * len(down))), use_container_width=True)
     st.caption("Left: what it is built on. Right: what is built on it.")
 
-elif step.startswith("5"):
+elif i == 5:
     st.header("Our question: Europe")
     st.markdown(
         "We ask it **both ways**:\n"
@@ -238,7 +277,7 @@ elif step.startswith("5"):
     ]), hide_index=True)
     st.caption("Both still to be checked against each organisation's own pages.")
 
-else:
+elif i == 6:
     st.header("The plan")
     st.dataframe(pd.DataFrame([
         {"course step": "Basic measures", "what we do": "N, L, density, degree distribution, clustering, paths"},
@@ -249,3 +288,25 @@ else:
         {"course step": "Time", "what we do": "2019 to April 2024: is dependence growing?"},
     ]), hide_index=True)
     st.success("**Your view?** Does the question make sense to you, and which side interests you most?")
+
+else:
+    st.header("References and links")
+    st.subheader("Papers")
+    st.markdown(
+        f"- Bommasani, R. et al. (2021). *On the Opportunities and Risks of Foundation Models*. "
+        f"[arXiv:2108.07258]({FM_PAPER})\n"
+        f"- Bommasani, R. et al. (2024). *Ecosystem Graphs: Documenting the Foundation Model Supply Chain*. "
+        f"AIES 2024, pp. 196–209. [arXiv:2303.15772]({EG_PAPER})")
+    st.subheader("Stanford's Ecosystem Graphs")
+    st.markdown(
+        f"- Website: [{STANFORD_PAGE}]({STANFORD_PAGE})\n"
+        f"- GitHub: [{UPSTREAM}]({UPSTREAM})\n"
+        f"- The snapshot we use: commit [{manifest['upstream_commit']}]({UPSTREAM}/commit/{manifest['upstream_commit']})")
+    st.subheader("Our work")
+    st.markdown(
+        f"- This app's code and data: [{OUR_REPO}]({OUR_REPO})\n"
+        f"- This app online: [{OUR_APP}]({OUR_APP})\n"
+        "- Built with Python: networkx, pandas, plotly and Streamlit")
+    st.subheader("Course")
+    st.download_button("Download the course's project description (PDF)", (DOCS / "project-description.pdf").read_bytes(),
+                       file_name="project-description.pdf", mime="application/pdf", key="pdf_refs")
