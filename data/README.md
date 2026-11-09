@@ -8,9 +8,9 @@ The network, frozen. Don't edit `nodes.csv` or `edges.csv`; `manifest.json` hold
 
 ## Region tags: `regions.csv`
 
-One row per organisation string in `nodes.csv` (192), largest first. Fill in:
+One row per organisation string in `nodes.csv` (192), largest first. `region` is pre-filled as a first guess; we check it.
 
-- `region`: EU, US, China or other (headquarters).
-- `source_url`: the page that shows it, e.g. the organisation's own site.
-- `tagged_by`: your name.
-- `note`: anything unsure. For collaborations (several organisations in one string), see the open decision in `PLAN.md`.
+- `region`: EU, US, China or other (headquarters). `mixed` = a collaboration across regions, until we settle the open decision in `PLAN.md`.
+- `source_url`: the page that shows it, e.g. the organisation's own site. The checker adds it.
+- `checked_by`: who checks this row (48 each, rows dealt in turn so everyone gets big and small ones).
+- `note`: why the guess. "unsure, please check" marks the 33 rows to look at hardest. UK and Switzerland are tagged `other` with a note "Europe, not EU".
