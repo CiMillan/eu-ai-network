@@ -10,7 +10,7 @@ The network, frozen. Don't edit `nodes.csv` or `edges.csv`; `manifest.json` hold
 
 One row per organisation string in `nodes.csv` (192), largest first. `region` is pre-filled as a first guess; we check it.
 
-- `region`: EU, US, China or other (headquarters). `mixed` = a collaboration across regions, until we settle the open decision in `PLAN.md`.
+- `region`: EU, US, China or other (headquarters). `mixed` = a collaboration across regions, until we settle the open decision in the [main README](../README.md#open-decisions).
 - `source_url`: the page that shows it, e.g. the organisation's own site. The checker adds it.
 - `checked_by`: who checks this row. 48 rows each, in blocks: Ifeoluwa rows 1–48, Sofiia 49–96, Cintia 97–144, Ella 145–192.
 - `note`: why the guess. "unsure, please check" marks the 33 rows to look at hardest. UK and Switzerland are tagged `other` with a note "Europe, not EU".
