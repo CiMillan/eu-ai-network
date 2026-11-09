@@ -1,193 +1,193 @@
 organization,n_assets,region,source_url,checked_by,note
 Google,71,US,,Ifeoluwa,
-OpenAI,41,US,,Sofiia,
-Microsoft,36,US,,Cintia,
-Meta,23,US,,Ella,
+OpenAI,41,US,,Ifeoluwa,
+Microsoft,36,US,,Ifeoluwa,
+Meta,23,US,,Ifeoluwa,
 Google Deepmind,21,other,,Ifeoluwa,"London, UK (Europe, not EU); owned by Google (US)"
-Cohere,13,other,,Sofiia,Canada
-AI2,11,US,,Cintia,
-AI21 Labs,11,other,,Ella,Israel
+Cohere,13,other,,Ifeoluwa,Canada
+AI2,11,US,,Ifeoluwa,
+AI21 Labs,11,other,,Ifeoluwa,Israel
 Anthropic,11,US,,Ifeoluwa,
-Stability AI,11,other,,Sofiia,"London, UK (Europe, not EU)"
-Together,8,US,,Cintia,
-BigScience,7,EU,,Ella,"led by Hugging Face, trained on French public supercomputer Jean Zay; unsure, please check"
+Stability AI,11,other,,Ifeoluwa,"London, UK (Europe, not EU)"
+Together,8,US,,Ifeoluwa,
+BigScience,7,EU,,Ifeoluwa,"led by Hugging Face, trained on French public supercomputer Jean Zay; unsure, please check"
 Salesforce,7,US,,Ifeoluwa,
-Shanghai AI Laboratory,7,China,,Sofiia,
-Tsinghua University,7,China,,Cintia,
-BigCode,6,US,,Ella,"Hugging Face + ServiceNow; unsure, please check"
+Shanghai AI Laboratory,7,China,,Ifeoluwa,
+Tsinghua University,7,China,,Ifeoluwa,
+BigCode,6,US,,Ifeoluwa,"Hugging Face + ServiceNow; unsure, please check"
 EleutherAI,6,US,,Ifeoluwa,
-Stanford,5,US,,Sofiia,
-Adept,4,US,,Cintia,
-Adobe,4,US,,Ella,
+Stanford,5,US,,Ifeoluwa,
+Adept,4,US,,Ifeoluwa,
+Adobe,4,US,,Ifeoluwa,
 Aleph Alpha,4,EU,,Ifeoluwa,Germany
-Alibaba,4,China,,Sofiia,
-AssemblyAI,4,US,,Cintia,
-Beijing Academy of Artificial Intelligence,4,China,,Ella,
+Alibaba,4,China,,Ifeoluwa,
+AssemblyAI,4,US,,Ifeoluwa,
+Beijing Academy of Artificial Intelligence,4,China,,Ifeoluwa,
 HuggingFace,4,US,,Ifeoluwa,"HQ New York, French founders, big Paris office; unsure, please check"
-Inflection AI,4,US,,Sofiia,
-LAION,4,EU,,Cintia,Germany
-OpenBMB,4,China,,Ella,
+Inflection AI,4,US,,Ifeoluwa,
+LAION,4,EU,,Ifeoluwa,Germany
+OpenBMB,4,China,,Ifeoluwa,
 Amazon,3,US,,Ifeoluwa,
-Baidu,3,China,,Sofiia,
-Berkeley,3,US,,Cintia,
-Cerebras,3,US,,Ella,
+Baidu,3,China,,Ifeoluwa,
+Berkeley,3,US,,Ifeoluwa,
+Cerebras,3,US,,Ifeoluwa,
 Deepseek AI,3,China,,Ifeoluwa,
-Duolingo,3,US,,Sofiia,
-Hugging Face,3,US,,Cintia,"same as HuggingFace; unsure, please check"
-IBM,3,US,,Ella,
+Duolingo,3,US,,Ifeoluwa,
+Hugging Face,3,US,,Ifeoluwa,"same as HuggingFace; unsure, please check"
+IBM,3,US,,Ifeoluwa,
 Mila-Quebec AI Institute,3,other,,Ifeoluwa,Canada
-Mistral AI,3,EU,,Sofiia,France
-Neeva,3,US,,Cintia,
-Nous Research,3,US,,Ella,
+Mistral AI,3,EU,,Ifeoluwa,France
+Neeva,3,US,,Ifeoluwa,
+Nous Research,3,US,,Ifeoluwa,
 Perplexity,3,US,,Ifeoluwa,
-RWKV,3,other,,Sofiia,"open community project; unsure, please check"
-UAE Technology Innovation Institute,3,other,,Cintia,UAE
-You,3,US,,Ella,
+RWKV,3,other,,Ifeoluwa,"open community project; unsure, please check"
+UAE Technology Innovation Institute,3,other,,Ifeoluwa,UAE
+You,3,US,,Ifeoluwa,
 01 AI,2,China,,Ifeoluwa,
-Apple,2,US,,Sofiia,
-Beijing Institute of Technology,2,China,,Cintia,
-Bloomberg,2,US,,Ella,
-Boston University,2,US,,Ifeoluwa,
+Apple,2,US,,Ifeoluwa,
+Beijing Institute of Technology,2,China,,Ifeoluwa,
+Bloomberg,2,US,,Ifeoluwa,
+Boston University,2,US,,Sofiia,
 Cognitive Computations,2,US,,Sofiia,"unsure, please check"
-Databricks,2,US,,Cintia,
-H2O AI,2,US,,Ella,
-"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,,Ifeoluwa,UAE + US
+Databricks,2,US,,Sofiia,
+H2O AI,2,US,,Sofiia,
+"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,,Sofiia,UAE + US
 Institute of Automation Chinese Academy of Sciences,2,China,,Sofiia,
-LLM360,2,other,,Cintia,"MBZUAI (UAE) + Petuum; unsure, please check"
-Mosaic,2,US,,Ella,
-NAVER,2,other,,Ifeoluwa,South Korea
+LLM360,2,other,,Sofiia,"MBZUAI (UAE) + Petuum; unsure, please check"
+Mosaic,2,US,,Sofiia,
+NAVER,2,other,,Sofiia,South Korea
 Nous,2,US,,Sofiia,same as Nous Research
-"Nous Research, EleutherAI, University of Geneva",2,mixed,,Cintia,US + Switzerland
-NVIDIA,2,US,,Ella,
-"NVIDIA, Stanford",2,US,,Ifeoluwa,
+"Nous Research, EleutherAI, University of Geneva",2,mixed,,Sofiia,US + Switzerland
+NVIDIA,2,US,,Sofiia,
+"NVIDIA, Stanford",2,US,,Sofiia,
 "Open X-Embodiment, Google Deepmind",2,mixed,,Sofiia,"many labs worldwide; unsure, please check"
-OpenLemur,2,China,,Cintia,"Hong Kong (HKU); unsure, please check"
-"Princeton University, Eleuther AI",2,US,,Ella,
-Reka,2,US,,Ifeoluwa,
+OpenLemur,2,China,,Sofiia,"Hong Kong (HKU); unsure, please check"
+"Princeton University, Eleuther AI",2,US,,Sofiia,
+Reka,2,US,,Sofiia,
 Samba Nova Systems,2,US,,Sofiia,
-"Together, LAION, Ontocord",2,mixed,,Cintia,US + EU (LAION)
-Twelve Labs,2,US,,Ella,"San Francisco and Seoul; unsure, please check"
-University of Oxford,2,other,,Ifeoluwa,"UK (Europe, not EU)"
+"Together, LAION, Ontocord",2,mixed,,Sofiia,US + EU (LAION)
+Twelve Labs,2,US,,Sofiia,"San Francisco and Seoul; unsure, please check"
+University of Oxford,2,other,,Sofiia,"UK (Europe, not EU)"
 "University of Turku, HuggingFace, National Library of Finland",2,mixed,,Sofiia,EU (Finland) + Hugging Face
-University of Washington,2,US,,Cintia,
-Writer,2,US,,Ella,
-xAI,2,US,,Ifeoluwa,
+University of Washington,2,US,,Sofiia,
+Writer,2,US,,Sofiia,
+xAI,2,US,,Sofiia,
 Yandex,2,other,,Sofiia,"Russia; unsure, please check"
-Argilla,1,EU,,Cintia,Spain
-Argonne National Laboratory,1,US,,Ella,
-Auto-GPT,1,other,,Ifeoluwa,"Significant Gravitas, UK; unsure, please check"
+Argilla,1,EU,,Sofiia,Spain
+Argonne National Laboratory,1,US,,Sofiia,
+Auto-GPT,1,other,,Sofiia,"Significant Gravitas, UK; unsure, please check"
 "Avignon University, Nantes University",1,EU,,Sofiia,France
-Baichuan Inc.,1,China,,Cintia,
-"Baidu, PengCheng Laboratory",1,China,,Ella,
-Bain,1,US,,Ifeoluwa,
+Baichuan Inc.,1,China,,Sofiia,
+"Baidu, PengCheng Laboratory",1,China,,Sofiia,
+Bain,1,US,,Sofiia,
 Be My Eyes,1,EU,,Sofiia,Denmark
-"Beijing Academy of Artificial Intelligence, Tsinghua University",1,China,,Cintia,
-"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",1,China,,Ella,
-Brex,1,US,,Ifeoluwa,
+"Beijing Academy of Artificial Intelligence, Tsinghua University",1,China,,Sofiia,
+"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",1,China,,Sofiia,
+Brex,1,US,,Sofiia,
 ByteDance,1,China,,Sofiia,
-"ByteDance, Tsinghua University",1,China,,Cintia,
-Cagliostro Research Lab,1,other,,Ella,"unsure, please check"
-Carnegie Mellon University,1,US,,Ifeoluwa,
+"ByteDance, Tsinghua University",1,China,,Sofiia,
+Cagliostro Research Lab,1,other,,Sofiia,"unsure, please check"
+Carnegie Mellon University,1,US,,Sofiia,
 "Carnegie Mellon University, University of Pennsylvania",1,US,,Sofiia,
-CausalLM,1,other,,Cintia,"unsure, please check"
-Character AI,1,US,,Ella,
-ChatGLM,1,China,,Ifeoluwa,
+CausalLM,1,other,,Sofiia,"unsure, please check"
+Character AI,1,US,,Sofiia,
+ChatGLM,1,China,,Sofiia,
 Cognition Labs,1,US,,Sofiia,
-"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",1,mixed,,Cintia,Canada + China + US
-"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",1,mixed,,Ella,Canada + US
-Columbia,1,US,,Ifeoluwa,
-"Columbia, Apple AI",1,US,,Sofiia,
+"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",1,mixed,,Sofiia,Canada + China + US
+"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",1,mixed,,Sofiia,Canada + US
+Columbia,1,US,,Cintia,
+"Columbia, Apple AI",1,US,,Cintia,
 "Continue Dev, Inc.",1,US,,Cintia,
-"Cornell University, Mosaic",1,US,,Ella,
-Cresta,1,US,,Ifeoluwa,
-"DAMO Academy, Alibaba",1,China,,Sofiia,
+"Cornell University, Mosaic",1,US,,Cintia,
+Cresta,1,US,,Cintia,
+"DAMO Academy, Alibaba",1,China,,Cintia,
 Data is Better Together,1,mixed,,Cintia,"Hugging Face + Argilla community; unsure, please check"
-Deci,1,other,,Ella,Israel
-Deepnight Research,1,other,,Ifeoluwa,"unsure, please check"
-DuckDuckGo,1,US,,Sofiia,
+Deci,1,other,,Cintia,Israel
+Deepnight Research,1,other,,Cintia,"unsure, please check"
+DuckDuckGo,1,US,,Cintia,
 Eleuther AI,1,US,,Cintia,
-"EPFL, Idiap Research Institute, OpenAssistant, Yale",1,mixed,,Ella,Switzerland + US
-Faraday Lab,1,other,,Ifeoluwa,"unsure, please check"
-FuseAI,1,China,,Sofiia,"Sun Yat-sen University; unsure, please check"
+"EPFL, Idiap Research Institute, OpenAssistant, Yale",1,mixed,,Cintia,Switzerland + US
+Faraday Lab,1,other,,Cintia,"unsure, please check"
+FuseAI,1,China,,Cintia,"Sun Yat-sen University; unsure, please check"
 Google DeepMind,1,other,,Cintia,same as Google Deepmind
-GooseAI,1,US,,Ella,
-GreenBit AI,1,other,,Ifeoluwa,"unsure, please check"
-"Hong Kong University of Science and Technology (Guangzhou + original), Beijing Academy of Artificial Intelligence",1,China,,Sofiia,
+GooseAI,1,US,,Cintia,
+GreenBit AI,1,other,,Cintia,"unsure, please check"
+"Hong Kong University of Science and Technology (Guangzhou + original), Beijing Academy of Artificial Intelligence",1,China,,Cintia,
 HubSpot,1,US,,Cintia,
-Ideogram AI,1,US,,Ella,"Toronto and San Francisco; unsure, please check"
-Instacart,1,US,,Ifeoluwa,
-"International Digital Economy Academy, South China University of Technology, University of Science and Technology of China",1,China,,Sofiia,
+Ideogram AI,1,US,,Cintia,"Toronto and San Francisco; unsure, please check"
+Instacart,1,US,,Cintia,
+"International Digital Economy Academy, South China University of Technology, University of Science and Technology of China",1,China,,Cintia,
 Juni Learning,1,US,,Cintia,
-Kakao Brain,1,other,,Ella,South Korea
-Khan Academy,1,US,,Ifeoluwa,
-Konan,1,other,,Sofiia,South Korea
+Kakao Brain,1,other,,Cintia,South Korea
+Khan Academy,1,US,,Cintia,
+Konan,1,other,,Cintia,South Korea
 Kotoba Tech,1,other,,Cintia,Japan
-KT Corporation,1,other,,Ella,South Korea
-Kunlun Inc.,1,China,,Ifeoluwa,
-Latitude,1,US,,Sofiia,
+KT Corporation,1,other,,Cintia,South Korea
+Kunlun Inc.,1,China,,Cintia,
+Latitude,1,US,,Cintia,
 Lehigh University,1,US,,Cintia,
-LG AI Research,1,other,,Ella,South Korea
-LinkedIn,1,US,,Ifeoluwa,
-LMSYS,1,US,,Sofiia,
+LG AI Research,1,other,,Cintia,South Korea
+LinkedIn,1,US,,Cintia,
+LMSYS,1,US,,Cintia,
 Math AI,1,other,,Cintia,"unsure, please check"
-Maya Philippines,1,other,,Ella,Philippines
-"Meta, CMU, TTI-Chicago, UC Berkeley, University of Washington",1,US,,Ifeoluwa,
-"Microsoft, NVIDIA",1,US,,Sofiia,
+Maya Philippines,1,other,,Cintia,Philippines
+"Meta, CMU, TTI-Chicago, UC Berkeley, University of Washington",1,US,,Cintia,
+"Microsoft, NVIDIA",1,US,,Cintia,
 Moonhub,1,US,,Cintia,
-Moreh,1,other,,Ella,South Korea
-"Morgan Stanley, ServiceNow Research, University of Montreal, Mila-Quebec AI Institute",1,mixed,,Ifeoluwa,US + Canada
-Nanyang Technological University,1,other,,Sofiia,Singapore
+Moreh,1,other,,Cintia,South Korea
+"Morgan Stanley, ServiceNow Research, University of Montreal, Mila-Quebec AI Institute",1,mixed,,Cintia,US + Canada
+Nanyang Technological University,1,other,,Cintia,Singapore
 National University of Singapore,1,other,,Cintia,Singapore
-"National University of Singapore, University of Edinburgh, ETH Zurich",1,other,,Ella,"Singapore + UK + Switzerland: Europe, not EU"
-NCSOFT,1,other,,Ifeoluwa,South Korea
-Nextdoor,1,US,,Sofiia,
+"National University of Singapore, University of Edinburgh, ETH Zurich",1,other,,Cintia,"Singapore + UK + Switzerland: Europe, not EU"
+NCSOFT,1,other,,Cintia,South Korea
+Nextdoor,1,US,,Cintia,
 Nolano,1,other,,Cintia,"unsure, please check"
-Notion,1,US,,Ella,
-Nucleus.AI,1,other,,Ifeoluwa,"unsure, please check"
-Nvidia,1,US,,Sofiia,
-Ohio State University,1,US,,Cintia,
+Notion,1,US,,Cintia,
+Nucleus.AI,1,other,,Ella,"unsure, please check"
+Nvidia,1,US,,Ella,
+Ohio State University,1,US,,Ella,
 Ollama,1,US,,Ella,
-Open X-Embodiment,1,mixed,,Ifeoluwa,"many labs worldwide; unsure, please check"
-"OpenAI, Salesforce",1,US,,Sofiia,
-OpenAssistant,1,EU,,Cintia,"LAION project (Germany); unsure, please check"
+Open X-Embodiment,1,mixed,,Ella,"many labs worldwide; unsure, please check"
+"OpenAI, Salesforce",1,US,,Ella,
+OpenAssistant,1,EU,,Ella,"LAION project (Germany); unsure, please check"
 OrionStarAI,1,China,,Ella,
-OthersideAI,1,US,,Ifeoluwa,
-Paladin Group and Dais Technology,1,other,,Sofiia,"unsure, please check"
-Peking University Institute for Artificial Intelligence,1,China,,Cintia,
+OthersideAI,1,US,,Ella,
+Paladin Group and Dais Technology,1,other,,Ella,"unsure, please check"
+Peking University Institute for Artificial Intelligence,1,China,,Ella,
 Pleias,1,EU,,Ella,France
-Portkey,1,other,,Ifeoluwa,"unsure, please check"
-Quizlet,1,US,,Sofiia,
-Quora,1,US,,Cintia,
+Portkey,1,other,,Ella,"unsure, please check"
+Quizlet,1,US,,Ella,
+Quora,1,US,,Ella,
 Qwen Team,1,China,,Ella,Alibaba
-Rakuten,1,other,,Ifeoluwa,Japan
-Reexpress AI,1,US,,Sofiia,"unsure, please check"
-Robin AI,1,other,,Cintia,"UK (Europe, not EU)"
+Rakuten,1,other,,Ella,Japan
+Reexpress AI,1,US,,Ella,"unsure, please check"
+Robin AI,1,other,,Ella,"UK (Europe, not EU)"
 Sana,1,EU,,Ella,Sweden
-SciPhi,1,US,,Ifeoluwa,"unsure, please check"
-"Shanghai AI Laboratory, Nanjing University, Zhejiang University",1,China,,Sofiia,
-Shop,1,other,,Cintia,"Shopify, Canada"
+SciPhi,1,US,,Ella,"unsure, please check"
+"Shanghai AI Laboratory, Nanjing University, Zhejiang University",1,China,,Ella,
+Shop,1,other,,Ella,"Shopify, Canada"
 SK Telecom,1,other,,Ella,South Korea
-Snap,1,US,,Ifeoluwa,
-Soochow University,1,China,,Sofiia,
-South Korea Graduate School of Culture Technology,1,other,,Cintia,South Korea
+Snap,1,US,,Ella,
+Soochow University,1,China,,Ella,
+South Korea Graduate School of Culture Technology,1,other,,Ella,South Korea
 Speak,1,US,,Ella,
-Spotify,1,EU,,Ifeoluwa,Sweden
-Stony Brook University,1,US,,Sofiia,
-Suno,1,US,,Cintia,
+Spotify,1,EU,,Ella,Sweden
+Stony Brook University,1,US,,Ella,
+Suno,1,US,,Ella,
 The Trevor Project,1,US,,Ella,
-TigerResearch,1,other,,Ifeoluwa,"South Korea; unsure, please check"
-"Tokyo Institute of Technology, MIT-IBM Watson Lab, Sapienza University of Rome",1,mixed,,Sofiia,Japan + US + EU (Italy)
-Toyota Research Institute,1,US,,Cintia,
+TigerResearch,1,other,,Ella,"South Korea; unsure, please check"
+"Tokyo Institute of Technology, MIT-IBM Watson Lab, Sapienza University of Rome",1,mixed,,Ella,Japan + US + EU (Italy)
+Toyota Research Institute,1,US,,Ella,
 Transformify,1,other,,Ella,"unsure, please check"
-"University of Oregon, Adobe",1,US,,Ifeoluwa,
-University of Toronto,1,other,,Sofiia,Canada
-"University of Washington, Spotify",1,mixed,,Cintia,US + EU (Sweden)
+"University of Oregon, Adobe",1,US,,Ella,
+University of Toronto,1,other,,Ella,Canada
+"University of Washington, Spotify",1,mixed,,Ella,US + EU (Sweden)
 VAGO Solutions,1,EU,,Ella,Germany
-Viable,1,US,,Ifeoluwa,
-Virtual Interactive,1,other,,Sofiia,"unsure, please check"
-Wayve,1,other,,Cintia,"UK (Europe, not EU)"
+Viable,1,US,,Ella,
+Virtual Interactive,1,other,,Ella,"unsure, please check"
+Wayve,1,other,,Ella,"UK (Europe, not EU)"
 Xverse,1,China,,Ella,
-Xwin,1,China,,Ifeoluwa,"unsure, please check"
-Zhejiang University,1,China,,Sofiia,
-"Zhipu AI, Tsinghua University",1,China,,Cintia,
+Xwin,1,China,,Ella,"unsure, please check"
+Zhejiang University,1,China,,Ella,
+"Zhipu AI, Tsinghua University",1,China,,Ella,
 "École Normale Supérieure, Inria",1,EU,,Ella,France
