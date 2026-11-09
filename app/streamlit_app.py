@@ -15,7 +15,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-DATA = Path(__file__).resolve().parent / "data"
+DATA = Path(__file__).resolve().parent.parent / "data"
 DOCS = Path(__file__).resolve().parent / "docs"
 UPSTREAM = "https://github.com/stanford-crfm/ecosystem-graphs"
 FM_PAPER = "https://arxiv.org/abs/2108.07258"
