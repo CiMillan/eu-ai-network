@@ -47,19 +47,19 @@ You,3,US,,Ifeoluwa,
 Apple,2,US,,Ifeoluwa,
 Beijing Institute of Technology,2,China,,Ifeoluwa,
 Bloomberg,2,US,,Ifeoluwa,
-Boston University,2,US,,Sofiia,
-Cognitive Computations,2,US,,Sofiia,"unsure, please check"
-Databricks,2,US,,Sofiia,
-H2O AI,2,US,,Sofiia,
-"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,,Sofiia,UAE + US
-Institute of Automation Chinese Academy of Sciences,2,China,,Sofiia,
-LLM360,2,other,,Sofiia,"MBZUAI (UAE) + Petuum; unsure, please check"
-Mosaic,2,US,,Sofiia,
-NAVER,2,other,,Sofiia,South Korea
-Nous,2,US,,Sofiia,same as Nous Research
-"Nous Research, EleutherAI, University of Geneva",2,mixed,,Sofiia,US + Switzerland
-NVIDIA,2,US,,Sofiia,
-"NVIDIA, Stanford",2,US,,Sofiia,
+Boston University,2,US,https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/,Sofiia,
+Cognitive Computations,2,US,https://ollama.com/CognitiveComputations,Sofiia,"decentralized so no physical headquaters, remote open-source AI research collective, but the founder is from the USA. Also no website, they publish their works in different places, i put a link to one of the sources",
+Databricks,2,US,https://www.databricks.com/,Sofiia,
+H2O AI,2,US,https://h2o.ai/,Sofiia,
+"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,https://huggingface.co/IFM,Sofiia,"UAE + US, no centralized website, each publishes on their own site, so i put a link to a centralized? repo"
+Institute of Automation Chinese Academy of Sciences,2,China,https://english.ia.cas.cn/,Sofiia,
+LLM360,2,mixed,https://www.llm360.ai/,Sofiia,MBZUAI (UAE) + Petuum (USA), "it doesn't say anything about Petuum on their website, though other sources list it as a founder as well + on the LLM's website other US based companies are mentioned so i think "mixed" works"
+Mosaic,2,other,https://getmosaic.ai/,Sofiia,Canada hq
+NAVER,2,other,https://www.navercorp.com/en/tech/innovation,Sofiia,South Korea
+Nous,2,US,https://nousresearch.com/,Sofiia,same as Nous Research
+"Nous Research, EleutherAI, University of Geneva",2,mixed,https://github.com/jquesnelle/yarn,Sofiia,"US + Switzerland, no website so the link is to the github repo"
+NVIDIA,2,US,https://www.nvidia.com/en-us/solutions/ai/,Sofiia,
+"NVIDIA, Stanford",2,US,https://github.com/Contrastive-LM/CLM,Sofiia, no website so the link is to the github repo
 "Open X-Embodiment, Google Deepmind",2,mixed,,Sofiia,"many labs worldwide; unsure, please check"
 OpenLemur,2,China,,Sofiia,"Hong Kong (HKU); unsure, please check"
 "Princeton University, Eleuther AI",2,US,,Sofiia,
