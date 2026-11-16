@@ -47,54 +47,54 @@ You,3,US,,Ifeoluwa,
 Apple,2,US,,Ifeoluwa,
 Beijing Institute of Technology,2,China,,Ifeoluwa,
 Bloomberg,2,US,,Ifeoluwa,
-Boston University,2,US,,Sofiia,
-Cognitive Computations,2,US,,Sofiia,"unsure, please check"
-Databricks,2,US,,Sofiia,
-H2O AI,2,US,,Sofiia,
-"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,,Sofiia,UAE + US
-Institute of Automation Chinese Academy of Sciences,2,China,,Sofiia,
-LLM360,2,other,,Sofiia,"MBZUAI (UAE) + Petuum; unsure, please check"
-Mosaic,2,US,,Sofiia,
-NAVER,2,other,,Sofiia,South Korea
-Nous,2,US,,Sofiia,same as Nous Research
-"Nous Research, EleutherAI, University of Geneva",2,mixed,,Sofiia,US + Switzerland
-NVIDIA,2,US,,Sofiia,
-"NVIDIA, Stanford",2,US,,Sofiia,
-"Open X-Embodiment, Google Deepmind",2,mixed,,Sofiia,"many labs worldwide; unsure, please check"
-OpenLemur,2,China,,Sofiia,"Hong Kong (HKU); unsure, please check"
-"Princeton University, Eleuther AI",2,US,,Sofiia,
-Reka,2,US,,Sofiia,
-Samba Nova Systems,2,US,,Sofiia,
-"Together, LAION, Ontocord",2,mixed,,Sofiia,US + EU (LAION)
-Twelve Labs,2,US,,Sofiia,"San Francisco and Seoul; unsure, please check"
-University of Oxford,2,other,,Sofiia,"UK (Europe, not EU)"
-"University of Turku, HuggingFace, National Library of Finland",2,mixed,,Sofiia,EU (Finland) + Hugging Face
-University of Washington,2,US,,Sofiia,
-Writer,2,US,,Sofiia,
-xAI,2,US,,Sofiia,
-Yandex,2,other,,Sofiia,"Russia; unsure, please check"
-Argilla,1,EU,,Sofiia,Spain
-Argonne National Laboratory,1,US,,Sofiia,
-Auto-GPT,1,other,,Sofiia,"Significant Gravitas, UK; unsure, please check"
-"Avignon University, Nantes University",1,EU,,Sofiia,France
-Baichuan Inc.,1,China,,Sofiia,
-"Baidu, PengCheng Laboratory",1,China,,Sofiia,
-Bain,1,US,,Sofiia,
-Be My Eyes,1,EU,,Sofiia,Denmark
-"Beijing Academy of Artificial Intelligence, Tsinghua University",1,China,,Sofiia,
-"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",1,China,,Sofiia,
-Brex,1,US,,Sofiia,
-ByteDance,1,China,,Sofiia,
-"ByteDance, Tsinghua University",1,China,,Sofiia,
-Cagliostro Research Lab,1,other,,Sofiia,"unsure, please check"
-Carnegie Mellon University,1,US,,Sofiia,
-"Carnegie Mellon University, University of Pennsylvania",1,US,,Sofiia,
-CausalLM,1,other,,Sofiia,"unsure, please check"
-Character AI,1,US,,Sofiia,
-ChatGLM,1,China,,Sofiia,
-Cognition Labs,1,US,,Sofiia,
-"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",1,mixed,,Sofiia,Canada + China + US
-"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",1,mixed,,Sofiia,Canada + US
+Boston University,2,US,https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/,Sofiia,
+Cognitive Computations,2,US,https://ollama.com/CognitiveComputations,Sofiia,"decentralized so no physical headquaters, remote open-source AI research collective, but the founder is from the USA. Also no website, they publish their works in different places, i put a link to one of the sources",
+Databricks,2,US,https://www.databricks.com/,Sofiia,
+H2O AI,2,US,https://h2o.ai/,Sofiia,
+"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",2,mixed,https://huggingface.co/IFM,Sofiia,"UAE + US, no centralized website, each publishes on their own site, so i put a link to a centralized? repo"
+Institute of Automation Chinese Academy of Sciences,2,China,https://english.ia.cas.cn/,Sofiia,
+LLM360,2,mixed,https://www.llm360.ai/,Sofiia,MBZUAI (UAE) + Petuum (USA), "it doesn't say anything about Petuum on their website, though other sources list it as a founder as well + on the LLM's website other US based companies are mentioned so i think "mixed" works"
+Mosaic,2,other,https://getmosaic.ai/,Sofiia,Canada hq
+NAVER,2,other,https://www.navercorp.com/en/tech/innovation,Sofiia,South Korea
+Nous,2,US,https://nousresearch.com/,Sofiia,same as Nous Research
+"Nous Research, EleutherAI, University of Geneva",2,mixed,https://github.com/jquesnelle/yarn,Sofiia,"US + Switzerland, no website so the link is to the github repo"
+NVIDIA,2,US,https://www.nvidia.com/en-us/solutions/ai/,Sofiia,
+"NVIDIA, Stanford",2,US,https://github.com/Contrastive-LM/CLM,Sofiia, no website so the link is to the github repo
+"Open X-Embodiment, Google Deepmind",2,mixed,https://robotics-transformer-x.github.io/,Sofiia,"many labs worldwide, though it was initiated and the leading organisation is Google DeepMind with hq in UK"
+OpenLemur,2,China,https://xlang.ai/blog/openlemur,Sofiia,"Hong Kong (HKU)"
+"Princeton University, Eleuther AI",2,US,"https://arxiv.org/abs/2310.10631",Sofiia,
+Reka,2,US,https://reka.ai/,Sofiia,
+Samba Nova Systems,2,US,https://sambanova.ai/,Sofiia,
+"Together, LAION, Ontocord",2,mixed,https://github.com/togethercomputer/openchatkit,Sofiia,US + EU (LAION)
+Twelve Labs,2,US,https://www.twelvelabs.io/,Sofiia,"San Francisco and Seoul; company registered in US, though the team is mostly Korean"
+University of Oxford,2,other,https://www.ox.ac.uk/,Sofiia,"UK (Europe, not EU)"
+"University of Turku, HuggingFace, National Library of Finland",2,mixed,https://turkunlp.org/gpt3-finnish,Sofiia,EU (Finland) + Hugging Face (US)
+University of Washington,2,US,https://www.ai.uw.edu/research/hubs-and-centers/,Sofiia,
+Writer,2,US,https://writer.com/,Sofiia,
+xAI,2,US,https://x.ai/,Sofiia,
+Yandex,2,other,https://ai.yandex.com/eng,Sofiia,"Russia"
+Argilla,1,EU,https://argilla.io/,Sofiia,Spain
+Argonne National Laboratory,1,US,https://www.anl.gov/si/projects,Sofiia,
+Auto-GPT,1,other,https://agpt.co/,Sofiia,"Significant Gravitas, UK"
+"Avignon University, Nantes University",1,EU,https://english.univ-nantes.fr/about-us/malades-adaptable-and-sovereign-large-language-models-for-the-french-medical-domain,Sofiia,France,"common AI projects in medicine"
+Baichuan Inc.,1,China,https://www.baichuan-ai.com/,Sofiia,
+"Baidu, PengCheng Laboratory",1,China,"https://arxiv.org/abs/2112.12731",Sofiia,"joint research"
+Bain,1,US,https://www.bain.com/consulting-services/technology-ai/,Sofiia,
+Be My Eyes,1,US,https://www.bemyeyes.com/business/bme-service-ai/,Sofiia,
+"Beijing Academy of Artificial Intelligence, Tsinghua University",1,China,"https://arxiv.org/abs/2103.10360",Sofiia,"joint research"
+"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",1,China,"https://arxiv.org/abs/2509.24869",Sofiia,"joint research"
+Brex,1,US,https://www.brex.com/platform/intelligent-finance,Sofiia,
+ByteDance,1,China,https://seed.bytedance.com/en/,Sofiia,
+"ByteDance, Tsinghua University",1,China,https://github.com/BytedTsinghua-SIA,Sofiia,"SIA Lab is their joint lab"
+Cagliostro Research Lab,1,other,https://cagliostrolab.net/,Sofiia,"Indonesia"
+Carnegie Mellon University,1,US,https://ai.cmu.edu/,Sofiia,
+"Carnegie Mellon University, University of Pennsylvania",1,US,https://www.engineering.upenn.edu/stories/a-new-swarm-ai-project-takes-on-safety-at-scale/,Sofiia,"Swarm AI - joint project"
+CausalLM,1,other,https://causallm.org/,Sofiia,"no registered organization in any country"
+Character AI,1,US,https://character.ai/,Sofiia,
+ChatGLM,1,China,https://z.ai/company,Sofiia,"Z.ai, formely known as ChatGLM"
+Cognition Labs,1,US,https://cognition.com/,Sofiia,
+"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",1,mixed,https://cohere.com/research/aya,Sofiia,Canada + China + US,"Aya is a joint project"
+"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",1,mixed,https://cohere.com/research/aya,Sofiia,Canada + US,"Aya is a joint project"
 Columbia,1,US,,Cintia,
 "Columbia, Apple AI",1,US,,Cintia,
 "Continue Dev, Inc.",1,US,,Cintia,
