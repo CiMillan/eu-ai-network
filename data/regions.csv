@@ -1,52 +1,58 @@
 organization,n_assets,region,source_url,checked_by,note
-Google,71,US,,Ifeoluwa,
-OpenAI,41,US,,Ifeoluwa,
-Microsoft,36,US,,Ifeoluwa,
-Meta,23,US,,Ifeoluwa,
-Google Deepmind,21,other,,Ifeoluwa,"London, UK (Europe, not EU); owned by Google (US)"
-Cohere,13,other,,Ifeoluwa,Canada
-AI2,11,US,,Ifeoluwa,
-AI21 Labs,11,other,,Ifeoluwa,Israel
-Anthropic,11,US,,Ifeoluwa,
-Stability AI,11,other,,Ifeoluwa,"London, UK (Europe, not EU)"
-Together,8,US,,Ifeoluwa,
-BigScience,7,EU,,Ifeoluwa,"led by Hugging Face, trained on French public supercomputer Jean Zay; unsure, please check"
-Salesforce,7,US,,Ifeoluwa,
-Shanghai AI Laboratory,7,China,,Ifeoluwa,
-Tsinghua University,7,China,,Ifeoluwa,
-BigCode,6,US,,Ifeoluwa,"Hugging Face + ServiceNow; unsure, please check"
-EleutherAI,6,US,,Ifeoluwa,
-Stanford,5,US,,Ifeoluwa,
-Adept,4,US,,Ifeoluwa,
-Adobe,4,US,,Ifeoluwa,
-Aleph Alpha,4,EU,,Ifeoluwa,Germany
-Alibaba,4,China,,Ifeoluwa,
-AssemblyAI,4,US,,Ifeoluwa,
-Beijing Academy of Artificial Intelligence,4,China,,Ifeoluwa,
-HuggingFace,4,US,,Ifeoluwa,"HQ New York, French founders, big Paris office; unsure, please check"
-Inflection AI,4,US,,Ifeoluwa,
-LAION,4,EU,,Ifeoluwa,Germany
-OpenBMB,4,China,,Ifeoluwa,
-Amazon,3,US,,Ifeoluwa,
-Baidu,3,China,,Ifeoluwa,
-Berkeley,3,US,,Ifeoluwa,
-Cerebras,3,US,,Ifeoluwa,
-Deepseek AI,3,China,,Ifeoluwa,
-Duolingo,3,US,,Ifeoluwa,
-Hugging Face,3,US,,Ifeoluwa,"same as HuggingFace; unsure, please check"
-IBM,3,US,,Ifeoluwa,
-Mila-Quebec AI Institute,3,other,,Ifeoluwa,Canada
-Mistral AI,3,EU,,Ifeoluwa,France
-Neeva,3,US,,Ifeoluwa,
-Nous Research,3,US,,Ifeoluwa,
-Perplexity,3,US,,Ifeoluwa,
-RWKV,3,other,,Ifeoluwa,"open community project; unsure, please check"
-UAE Technology Innovation Institute,3,other,,Ifeoluwa,UAE
-You,3,US,,Ifeoluwa,
-01 AI,2,China,,Ifeoluwa,
-Apple,2,US,,Ifeoluwa,
-Beijing Institute of Technology,2,China,,Ifeoluwa,
-Bloomberg,2,US,,Ifeoluwa,
+Google,71,US,https://websets.exa.ai/websets/directory/google-offices,Ifeoluwa,US
+OpenAI,41,US,https://websets.exa.ai/websets/directory/openai-offices,Ifeoluwa,"California, US "
+Microsoft,36,US,https://microsoft.ai/about/,Ifeoluwa,"Washinton, US"
+Meta,23,US,https://www.meta.com/about/company-info/?srsltid=AYCX9vJrXKxIFAhj_lpRdWu2fajA6fTyqjXvo5OX2Ftub327M3cQkIyr,Ifeoluwa,US
+Google Deepmind,21,other,https://deepmind.google/about/,Ifeoluwa,"London, UK (Europe, not EU); owned by Google (US)"
+Cohere,13,other,https://cohere.com/about,Ifeoluwa,Canada
+AI2,11,US,https://allenai.org/about,Ifeoluwa,"Washington, US"
+AI21 Labs,11,other,https://www.ai21.com/about/,Ifeoluwa,Israel
+Anthropic,11,US,https://www.anthropic.com/company,Ifeoluwa,"California, US "
+Stability AI,11,other,https://stability.ai/terms-of-service,Ifeoluwa,"London, UK (Europe, not EU)"
+Together,8,US,https://websets.exa.ai/websets/directory/together-ai-offices,Ifeoluwa,"California, US "
+BigScience,7,EU,https://en.wikipedia.org/wiki/Hugging_Face,Ifeoluwa,"led by Hugging Face, trained on French public supercomputer Jean Zay; unsure, please check
+
+HQ in New York City"
+Salesforce,7,US,https://websets.exa.ai/websets/directory/salesforce-offices,Ifeoluwa,"San Francisco, US"
+Shanghai AI Laboratory,7,China,https://www.cbinsights.com/company/shanghai-artificial-intelligence-laboratory,Ifeoluwa,China
+Tsinghua University,7,China,https://collegeai.tsinghua.edu.cn/en/,Ifeoluwa,China
+BigCode,6,US,https://www.bigcode-project.org/docs/about/organization/,Ifeoluwa,"Hugging Face + ServiceNow; unsure, please check"
+EleutherAI,6,US,"https://eleuther.ai/about/
+
+https://ai.miraheze.org/wiki/EleutherAI",Ifeoluwa,New York City
+Stanford,5,US,https://hai.stanford.edu/about,Ifeoluwa,"California, US "
+Adept,4,US,https://salestools.io/en/report/adept-ai-headquarters,Ifeoluwa,"California, US "
+Adobe,4,US,https://www.adobe.com/about-adobe/contact/offices.html,Ifeoluwa,"California, US "
+Aleph Alpha,4,EU,https://aleph-alpha.com/en/,Ifeoluwa,Germany
+Alibaba,4,China,https://www.alibabacloud.com/en/global-offices?_p_lc=1,Ifeoluwa,China
+AssemblyAI,4,US,https://akta.pro/company-profiles/0002jkp/assemblyai,Ifeoluwa,"California, US "
+Beijing Academy of Artificial Intelligence,4,China,https://www.chinaaidata.com/database/baai?from=%2Fdatabase%2Fcompanies%3Flang%3Den&lang=en,Ifeoluwa,"Beijing, China"
+HuggingFace,4,US,https://en.wikipedia.org/wiki/Hugging_Face,Ifeoluwa,"HQ New York, French founders, big Paris office; unsure, please check"
+Inflection AI,4,US,https://akta.pro/company-profiles/00003ny/inflection-ai,Ifeoluwa,"Palo Alto, United States"
+LAION,4,EU,https://laion.ai/about/,Ifeoluwa,Germany
+OpenBMB,4,China,https://baike.baidu.com/en/item/Beijing%20Mianbi%20Intelligent%20Technology%20Co.%2C%20Ltd./79210,Ifeoluwa,"Beijing, China"
+Amazon,3,US,https://websets.exa.ai/websets/directory/amazon-offices,Ifeoluwa,"San Francisco, US"
+Baidu,3,China,https://baike.baidu.com/en/item/Baidu/978516,Ifeoluwa,"Beijing, China"
+Berkeley,3,US,https://archello.com/project/berkeley-artificial-intelligence-research-lab,Ifeoluwa,"California, US "
+Cerebras,3,US,https://www.cerebras.ai/contact,Ifeoluwa,"California, US "
+Deepseek AI,3,China,https://lingua-sinica.org/dispatch/hangzhou-deepseek-artificial-intelligence-basic-technology-research-co-ltd/,Ifeoluwa,"Beijing, China"
+Duolingo,3,US,https://craft.co/duolingo/locations,Ifeoluwa,"Pittsburg, US"
+Hugging Face,3,US,Same as No 25,Ifeoluwa,"same as HuggingFace; unsure, please check"
+IBM,3,US,https://websets.exa.ai/websets/directory/ibm-offices,Ifeoluwa,"New York, US"
+Mila-Quebec AI Institute,3,other,https://mila.quebec/en/about/about-mila,Ifeoluwa,Canada
+Mistral AI,3,EU,https://legal.mistral.ai/terms/privacy-policy/?lang=en,Ifeoluwa,France
+Neeva,3,US,https://pitchbook.com/profiles/company/436309-57#patents,Ifeoluwa,"California, US "
+Nous Research,3,US,https://www.onebullex.com/explore/who-is-behind-nous-research-team-vision,Ifeoluwa,"Texus, US"
+Perplexity,3,US,https://en.wikipedia.org/wiki/Perplexity_AI,Ifeoluwa,"California, US "
+RWKV,3,US,https://huggingface.co/blog/rwkv,Ifeoluwa,"open community project; unsure, please check
+Started by BlinkDL in the US
+"
+UAE Technology Innovation Institute,3,other,https://www.tii.ae/,Ifeoluwa,UAE
+You,3,US,https://you.com/about,Ifeoluwa,US
+01 AI,2,China,https://www.01.ai/about.html,Ifeoluwa,"Beijing, China"
+Apple,2,US,,Ifeoluwa,US
+Beijing Institute of Technology,2,China,https://en.wikipedia.org/wiki/Beijing_Institute_for_General_Artificial_Intelligence,Ifeoluwa,"Beijing, China"
+Bloomberg,2,US,https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/,Ifeoluwa,US
 Boston University,2,US,,Sofiia,
 Cognitive Computations,2,US,,Sofiia,"unsure, please check"
 Databricks,2,US,,Sofiia,
