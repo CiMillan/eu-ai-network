@@ -149,51 +149,51 @@ NCSOFT,1,other,,Cintia,South Korea
 Nextdoor,1,US,,Cintia,
 Nolano,1,other,,Cintia,"unsure, please check"
 Notion,1,US,,Cintia,
-Nucleus.AI,1,other,,Ella,"unsure, please check"
-Nvidia,1,US,,Ella,
-Ohio State University,1,US,,Ella,
-Ollama,1,US,,Ella,
-Open X-Embodiment,1,mixed,,Ella,"many labs worldwide; unsure, please check"
-"OpenAI, Salesforce",1,US,,Ella,
-OpenAssistant,1,EU,,Ella,"LAION project (Germany); unsure, please check"
-OrionStarAI,1,China,,Ella,
-OthersideAI,1,US,,Ella,
-Paladin Group and Dais Technology,1,other,,Ella,"unsure, please check"
-Peking University Institute for Artificial Intelligence,1,China,,Ella,
-Pleias,1,EU,,Ella,France
-Portkey,1,other,,Ella,"unsure, please check"
-Quizlet,1,US,,Ella,
-Quora,1,US,,Ella,
-Qwen Team,1,China,,Ella,Alibaba
-Rakuten,1,other,,Ella,Japan
-Reexpress AI,1,US,,Ella,"unsure, please check"
-Robin AI,1,other,,Ella,"UK (Europe, not EU)"
-Sana,1,EU,,Ella,Sweden
-SciPhi,1,US,,Ella,"unsure, please check"
-"Shanghai AI Laboratory, Nanjing University, Zhejiang University",1,China,,Ella,
-Shop,1,other,,Ella,"Shopify, Canada"
-SK Telecom,1,other,,Ella,South Korea
-Snap,1,US,,Ella,
-Soochow University,1,China,,Ella,
-South Korea Graduate School of Culture Technology,1,other,,Ella,South Korea
-Speak,1,US,,Ella,
-Spotify,1,EU,,Ella,Sweden
-Stony Brook University,1,US,,Ella,
-Suno,1,US,,Ella,
-The Trevor Project,1,US,,Ella,
-TigerResearch,1,other,,Ella,"South Korea; unsure, please check"
-"Tokyo Institute of Technology, MIT-IBM Watson Lab, Sapienza University of Rome",1,mixed,,Ella,Japan + US + EU (Italy)
-Toyota Research Institute,1,US,,Ella,
-Transformify,1,other,,Ella,"unsure, please check"
-"University of Oregon, Adobe",1,US,,Ella,
-University of Toronto,1,other,,Ella,Canada
-"University of Washington, Spotify",1,mixed,,Ella,US + EU (Sweden)
-VAGO Solutions,1,EU,,Ella,Germany
-Viable,1,US,,Ella,
-Virtual Interactive,1,other,,Ella,"unsure, please check"
-Wayve,1,other,,Ella,"UK (Europe, not EU)"
-Xverse,1,China,,Ella,
-Xwin,1,China,,Ella,"unsure, please check"
-Zhejiang University,1,China,,Ella,
-"Zhipu AI, Tsinghua University",1,China,,Ella,
-"École Normale Supérieure, Inria",1,EU,,Ella,France
+Nucleus.AI,1,EU,https://thehub.io/startups/wordpay,Ella,Unsure; verify headquarters country
+Nvidia,1,US,https://www.nvidia.com/en-us/contact/,Ella,
+Ohio State University,1,US,https://www.osu.edu,Ella,
+Ollama,1,US,https://www.cbinsights.com/company/ollama,Ella,
+Open X-Embodiment,1,mixed,https://www.roboticscenter.ai/glossary/open-x,Ella,Multiple labs worldwide; headquarters country may not apply
+"OpenAI; Salesforce",1,US,https://www.clay.com/dossier/openai-headquarters-office-locations,Ella,Two organizations listed; verify whether this is one joint asset
+OpenAssistant,1,EU,https://projects.laion.ai/Open-Assistant/docs/faq,Ella,LAION project (Germany); verify project/organization location
+OrionStarAI,1,China,https://en.orionstar.com/zxly.html,Ella,
+OthersideAI,1,US,https://www.cbinsights.com/company/othersideai,Ella,
+Paladin Group and Dais Technology,1,US,https://www.linkedin.com/company/the-paladin-group-ia/,Ella,Unsure; verify headquarters country
+Peking University Institute for Artificial Intelligence,1,China,https://www.ai.pku.edu.cn/en/,Ella,
+Pleias,1,EU,https://pleias.ai/,Ella,France
+Portkey,1,other,https://portkey.ai/,Ella,Unsure; verify headquarters country
+Quizlet,1,US,https://quizlet.com/tos,Ella,
+Quora,1,US,https://research.contrary.com/company/quora,Ella,
+Qwen Team,1,China,https://plusclouds.com/blogs/what-is-qwen-ai,Ella,Alibaba
+Rakuten,1,other,https://global.rakuten.com/corp/about/,Ella,Japan
+Reexpress AI,1,US,https://re.express/about.html,Ella,Unsure; verify headquarters country
+Robin AI,1,other,https://find-and-update.company-information.service.gov.uk/company/11400135,Ella,UK (Europe not EU)
+Sana,1,EU,https://sanalabs.com/about,Ella,Sweden
+SciPhi,1,US,https://tracxn.com/d/companies/sciphi/__eLhaYur3BTixu8bFTYQI563GEa-o7wuEStho_93GZ1M,Ella,Unsure; verify headquarters country
+Shanghai AI Laboratory; Nanjing University; Zhejiang University,1,China,https://www.nature.com/nature-index/institution-outputs/china/shanghai-artificial-intelligence-laboratory/628dcd4f342df06592261358,Ella,Three organizations listed; confirm whether this is one joint asset
+Shop,1,US,https://tracxn.com/d/companies/shop-ai/__bhj4wGLdOe-Y4vbQYoX3dtizEdnXkqPvNDCLP36U9b4,Ella,Shopify; Canada
+SK Telecom,1,other,https://www.zoominfo.com/hq/sk-telecom-office-address/148046227,Ella,South Korea
+Snap,1,US,https://careers.snap.com/offices,Ella,
+Soochow University,1,China,https://eng.suda.edu.cn/About/Overview/,Ella,
+South Korea Graduate School of Culture Technology,1,other,https://pure.kaist.ac.kr/en/organisations/graduate-school-of-culture-technology/,Ella,South Korea
+Speak,1,US,https://www.speak.com/careers,Ella,
+Spotify,1,EU,https://www.spotify.com/co-en/about-us/contact/,Ella,Sweden
+Stony Brook University,1,US,https://www.stonybrook.edu,Ella,
+Suno,1,US,https://pitchbook.com/profiles/company/512734-06#overview,Ella,
+The Trevor Project,1,US,https://www.thetrevorproject.org/contact-us/,Ella,
+TigerResearch,1,other,https://tiger-research.com/about,Ella,South Korea; verify headquarters country
+"Tokyo Institute of Technology; MIT-IBM Watson Lab; Sapienza University of Rome",1,mixed,https://www.dsai.titech.ac.jp/en/about/,Ella,Japan + US + EU (Italy); three organizations listed
+Toyota Research Institute,1,US,https://www.tri.global/about-us,Ella,
+Transformify,1,US,https://www.transformify.ai/about,Ella,Unsure; verify headquarters country
+University of Oregon; Adobe,1,US,https://www.uoregon.edu,Ella,Two organizations listed; verify whether this is one joint asset
+University of Toronto,1,other,https://www.utoronto.ca,Ella,Canada
+University of Washington; Spotify,1,US,https://www.washington.edu,Ella,US + EU (Sweden); two organizations listed
+VAGO Solutions,1,EU,https://www.vago-solutions.ai/en/impressum,Ella,Germany
+Viable,1,US,https://getviable.ai/contact-us,Ella,
+Virtual Interactive,1,EU,https://interactive.ai/contact,Ella,Unsure; verify headquarters country
+Wayve,1,other,https://graphiq.ai/dossier/wayve,Ella,UK (Europe not EU)
+Xverse,1,China,https://www.crunchbase.com/organization/xverse,Ella,
+Xwin,1,other,https://www.crunchbase.com/organization/xwin,Ella,Unsure; verify headquarters country
+Zhejiang University,1,China,https://www.zju.edu.cn/english/,Ella,
+Zhipu AI; Tsinghua University,1,China,https://www.tsinghua.edu.cn/en/info/1418/10451.htm,Ella,Two organizations listed
+École Normale Supérieure; Inria,1,EU,https://www.di.ens.fr,Ella,France; two organizations listed
